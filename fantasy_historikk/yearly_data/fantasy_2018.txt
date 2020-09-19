@@ -1,0 +1,140 @@
+1 	Handegg United 	Loss 	155.59 - 186.62 	
+2 	Binaries 	Loss 	143.70 - 147.66 	
+3 	Earthbreakwood 	Loss 	155.32 - 156.31 	
+4 	Franks 	Win 	171.06 - 166.06 	
+5 	Marienlyst Sharks 	Win 	174.48 - 139.46 	
+6 	Polk High Panthers 	Win 	165.59 - 98.63 	
+7 	Priests with guns 	Win 	143.32 - 126.78 	
+8 	The Adult Beverages 	Loss 	178.99 - 190.60 	
+9 	The Chillybows 	Loss 	127.38 - 156.67 	
+10 	Handegg United 	Win 	170.68 - 133.06 	
+11 	Binaries 	Win 	176.33 - 140.44 	
+12 	Earthbreakwood 	Win 	157.47 - 99.41 	
+13 	Franks 	Loss 	161.21 - 164.42 	
+14 	Marienlyst Sharks 	Win 	138.03 - 117.09
+1 	The Indubitablys 	Win 	186.62 - 155.59 	
+2 	The Chillybows 	Win 	133.57 - 125.97 	
+3 	Binaries 	Win 	168.90 - 123.61 	
+4 	Earthbreakwood 	Loss 	126.87 - 150.68 	
+5 	Franks 	Win 	159.83 - 142.45 	
+6 	Marienlyst Sharks 	Loss 	154.01 - 187.09 	
+7 	Polk High Panthers 	Loss 	159.72 - 160.82 	
+8 	Priests with guns 	Loss 	140.43 - 158.37 	
+9 	The Adult Beverages 	Win 	128.10 - 117.09 	
+10 	The Indubitablys 	Loss 	133.06 - 170.68 	
+11 	The Chillybows 	Win 	164.73 - 133.55 	
+12 	Binaries 	Loss 	106.98 - 180.23 	
+13 	Earthbreakwood 	Loss 	102.19 - 114.10 	
+14 	Franks 	Loss 	85.36 - 167.55
+1 	The Adult Beverages 	Loss 	128.28 - 138.53 	
+2 	The Indubitablys 	Win 	147.66 - 143.70 	
+3 	Handegg United 	Loss 	123.61 - 168.90 	
+4 	The Chillybows 	Loss 	167.64 - 210.18 	
+5 	Earthbreakwood 	Win 	133.28 - 119.34 	
+6 	Franks 	Win 	142.40 - 92.23 	
+7 	Marienlyst Sharks 	Loss 	132.28 - 160.97 	
+8 	Polk High Panthers 	Loss 	88.06 - 143.83 	
+9 	Priests with guns 	Loss 	123.19 - 125.03 	
+10 	The Adult Beverages 	Win 	144.02 - 141.81 	
+11 	The Indubitablys 	Loss 	140.44 - 176.33 	
+12 	Handegg United 	Win 	180.23 - 106.98 	
+13 	The Chillybows 	Win 	118.88 - 108.24 	
+14 	Earthbreakwood 	Loss 	111.69 - 125.25
+1 	Priests with guns 	Win 	164.18 - 115.60 	
+2 	The Adult Beverages 	Loss 	125.37 - 139.99 	
+3 	The Indubitablys 	Win 	156.31 - 155.32 	
+4 	Handegg United 	Win 	150.68 - 126.87 	
+5 	Binaries 	Loss 	119.34 - 133.28 	
+6 	The Chillybows 	Win 	133.79 - 116.82 	
+7 	Franks 	Loss 	117.69 - 152.18 	
+8 	Marienlyst Sharks 	Loss 	123.42 - 152.11 	
+9 	Polk High Panthers 	Loss 	107.53 - 175.47 	
+10 	Priests with guns 	Loss 	127.00 - 145.49 	
+11 	The Adult Beverages 	Win 	157.33 - 141.54 	
+12 	The Indubitablys 	Loss 	99.41 - 157.47 	
+13 	Handegg United 	Win 	114.10 - 102.19 	
+14 	Binaries 	Win 	125.25 - 111.69 
+1 	Polk High Panthers 	Loss 	130.49 - 155.51 	
+2 	Priests with guns 	Loss 	128.97 - 130.74 	
+3 	The Adult Beverages 	Win 	129.92 - 90.32 	
+4 	The Indubitablys 	Loss 	166.06 - 171.06 	
+5 	Handegg United 	Loss 	142.45 - 159.83 	
+6 	Binaries 	Loss 	92.23 - 142.40 	
+7 	Earthbreakwood 	Win 	152.18 - 117.69 	
+8 	The Chillybows 	Loss 	112.89 - 134.32 	
+9 	Marienlyst Sharks 	Win 	170.20 - 169.88 	
+10 	Polk High Panthers 	Loss 	155.95 - 157.58 	
+11 	Priests with guns 	Win 	152.09 - 135.63 	
+12 	The Adult Beverages 	Win 	190.23 - 147.54 	
+13 	The Indubitablys 	Win 	164.42 - 161.21 	
+14 	Handegg United 	Win 	167.55 - 85.36
+1 	The Chillybows 	Win 	158.17 - 135.53 	
+2 	Polk High Panthers 	Win 	160.86 - 123.83 	
+3 	Priests with guns 	Loss 	123.23 - 134.14 	
+4 	The Adult Beverages 	Win 	194.26 - 139.42 	
+5 	The Indubitablys 	Loss 	139.46 - 174.48 	
+6 	Handegg United 	Win 	187.09 - 154.01 	
+7 	Binaries 	Win 	160.97 - 132.28 	
+8 	Earthbreakwood 	Win 	152.11 - 123.42 	
+9 	Franks 	Loss 	169.88 - 170.20 	
+10 	The Chillybows 	Loss 	149.78 - 153.75 	
+11 	Polk High Panthers 	Loss 	143.50 - 158.91 	
+12 	Priests with guns 	Loss 	157.31 - 157.66 	
+13 	The Adult Beverages 	Win 	149.05 - 127.05 	
+14 	The Indubitablys 	Loss 	117.09 - 138.03
+1 	Franks 	Win 	155.51 - 130.49 	
+2 	Marienlyst Sharks 	Loss 	123.83 - 160.86 	
+3 	The Chillybows 	Loss 	106.98 - 123.97 	
+4 	Priests with guns 	Win 	182.46 - 115.51 	
+5 	The Adult Beverages 	Loss 	137.93 - 149.23 	
+6 	The Indubitablys 	Loss 	98.63 - 165.59 	
+7 	Handegg United 	Win 	160.82 - 159.72 	
+8 	Binaries 	Win 	143.83 - 88.06 	
+9 	Earthbreakwood 	Win 	175.47 - 107.53 	
+10 	Franks 	Win 	157.58 - 155.95 	
+11 	Marienlyst Sharks 	Win 	158.91 - 143.50 	
+12 	The Chillybows 	Loss 	129.06 - 170.27 	
+13 	Priests with guns 	Loss 	96.50 - 149.70 	
+14 	The Adult Beverages 	Loss 	96.01 - 100.12
+1 	Earthbreakwood 	Loss 	115.60 - 164.18 	
+2 	Franks 	Win 	130.74 - 128.97 	
+3 	Marienlyst Sharks 	Win 	134.14 - 123.23 	
+4 	Polk High Panthers 	Loss 	115.51 - 182.46 	
+5 	The Chillybows 	Win 	139.15 - 113.23 	
+6 	The Adult Beverages 	Win 	172.42 - 110.67 	
+7 	The Indubitablys 	Loss 	126.78 - 143.32 	
+8 	Handegg United 	Win 	158.37 - 140.43 	
+9 	Binaries 	Win 	125.03 - 123.19 	
+10 	Earthbreakwood 	Win 	145.49 - 127.00 	
+11 	Franks 	Loss 	135.63 - 152.09 	
+12 	Marienlyst Sharks 	Win 	157.66 - 157.31 	
+13 	Polk High Panthers 	Win 	149.70 - 96.50 	
+14 	The Chillybows 	Loss 	127.44 - 187.27
+1 	Binaries 	Win 	138.53 - 128.28 	
+2 	Earthbreakwood 	Win 	139.99 - 125.37 	
+3 	Franks 	Loss 	90.32 - 129.92 	
+4 	Marienlyst Sharks 	Loss 	139.42 - 194.26 	
+5 	Polk High Panthers 	Win 	149.23 - 137.93 	
+6 	Priests with guns 	Loss 	110.67 - 172.42 	
+7 	The Chillybows 	Loss 	124.40 - 174.05 	
+8 	The Indubitablys 	Win 	190.60 - 178.99 	
+9 	Handegg United 	Loss 	117.09 - 128.10 	
+10 	Binaries 	Loss 	141.81 - 144.02 	
+11 	Earthbreakwood 	Loss 	141.54 - 157.33 	
+12 	Franks 	Loss 	147.54 - 190.23 	
+13 	Marienlyst Sharks 	Loss 	127.05 - 149.05 	
+14 	Polk High Panthers 	Win 	100.12 - 96.01
+1 	Marienlyst Sharks 	Loss 	135.53 - 158.17 	
+2 	Handegg United 	Loss 	125.97 - 133.57 	
+3 	Polk High Panthers 	Win 	123.97 - 106.98 	
+4 	Binaries 	Win 	210.18 - 167.64 	
+5 	Priests with guns 	Loss 	113.23 - 139.15 	
+6 	Earthbreakwood 	Loss 	116.82 - 133.79 	
+7 	The Adult Beverages 	Win 	174.05 - 124.40 	
+8 	Franks 	Win 	134.32 - 112.89 	
+9 	The Indubitablys 	Win 	156.67 - 127.38 	
+10 	Marienlyst Sharks 	Win 	153.75 - 149.78 	
+11 	Handegg United 	Loss 	133.55 - 164.73 	
+12 	Polk High Panthers 	Win 	170.27 - 129.06 	
+13 	Binaries 	Loss 	108.24 - 118.88 	
+14 	Priests with guns 	Win 	187.27 - 127.44	

@@ -1,0 +1,9 @@
+Rank 	Team 	W-L-T 	Pct 	Pts For 	Pts Against 	Streak 	Waiver Budget 	Waiver 	Moves
+*1. 	Priests with guns 	10-4-0 	.714 	2137.30 	1986.75 	W-3 	$0 	7 	47
+*2. 	The Indubitablys 	12-2-0 	.857 	2271.18 	1892.80 	W-1 	$0 	8 	45
+*3. 	Binaries 	7-7-0 	.500 	2112.47 	2109.98 	W-1 	$35 	6 	18
+*4. 	The Chillybows 	7-7-0 	.500 	1979.20 	2091.82 	W-1 	$78 	5 	12
+5. 	Earthbreakwood 	7-7-0 	.500 	1870.90 	1905.19 	L-1 	$14 	4 	36
+6. 	Franks 	5-9-0 	.357 	1928.92 	2108.89 	L-1 	$20 	3 	37
+7. 	Nuns with guns 	4-10-0 	.286 	1888.61 	1982.30 	L-3 	$38 	2 	20
+8. 	Polk High Panthers 	4-10-0 	.286 	1860.34 	1971.19 	L-1 	$100 	1 	8

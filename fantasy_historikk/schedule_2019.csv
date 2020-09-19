@@ -1,0 +1,141 @@
+Week,Opponent,Team
+1,Binaries,The Indubitablys
+2,Earthbreakwood,The Indubitablys
+3,Franks,The Indubitablys
+4,Handegg United,The Indubitablys
+5,Marienlyst Sharks,The Indubitablys
+6,Charles's Crazy Team,The Indubitablys
+7,Priests with guns,The Indubitablys
+8,The Adult Beverages,The Indubitablys
+9,The Chillybows,The Indubitablys
+10,Binaries,The Indubitablys
+11,Earthbreakwood,The Indubitablys
+12,Franks,The Indubitablys
+13,Handegg United,The Indubitablys
+14,Marienlyst Sharks,The Indubitablys
+1,The Indubitablys,Binaries
+2,The Chillybows,Binaries
+3,Earthbreakwood,Binaries
+4,Franks,Binaries
+5,Handegg United,Binaries
+6,Marienlyst Sharks,Binaries
+7,Charles's Crazy Team,Binaries
+8,Priests with guns,Binaries
+9,The Adult Beverages,Binaries
+10,The Indubitablys,Binaries
+11,The Chillybows,Binaries
+12,Earthbreakwood,Binaries
+13,Franks,Binaries
+14,Handegg United,Binaries
+1,The Adult Beverages,Earthbreakwood
+2,The Indubitablys,Earthbreakwood
+3,Binaries,Earthbreakwood
+4,The Chillybows,Earthbreakwood
+5,Franks,Earthbreakwood
+6,Handegg United,Earthbreakwood
+7,Marienlyst Sharks,Earthbreakwood
+8,Charles's Crazy Team,Earthbreakwood
+9,Priests with guns,Earthbreakwood
+10,The Adult Beverages,Earthbreakwood
+11,The Indubitablys,Earthbreakwood
+12,Binaries,Earthbreakwood
+13,The Chillybows,Earthbreakwood
+14,Franks,Earthbreakwood
+1,Priests with guns,Franks
+2,The Adult Beverages,Franks
+3,The Indubitablys,Franks
+4,Binaries,Franks
+5,Earthbreakwood,Franks
+6,The Chillybows,Franks
+7,Handegg United,Franks
+8,Marienlyst Sharks,Franks
+9,Charles's Crazy Team,Franks
+10,Priests with guns,Franks
+11,The Adult Beverages,Franks
+12,The Indubitablys,Franks
+13,Binaries,Franks
+14,Earthbreakwood,Franks
+1,Charles's Crazy Team,Handegg United
+2,Priests with guns,Handegg United
+3,The Adult Beverages,Handegg United
+4,The Indubitablys,Handegg United
+5,Binaries,Handegg United
+6,Earthbreakwood,Handegg United
+7,Franks,Handegg United
+8,The Chillybows,Handegg United
+9,Marienlyst Sharks,Handegg United
+10,Charles's Crazy Team,Handegg United
+11,Priests with guns,Handegg United
+12,The Adult Beverages,Handegg United
+13,The Indubitablys,Handegg United
+14,Binaries,Handegg United
+1,The Chillybows,Marienlyst Sharks
+2,Charles's Crazy Team,Marienlyst Sharks
+3,Priests with guns,Marienlyst Sharks
+4,The Adult Beverages,Marienlyst Sharks
+5,The Indubitablys,Marienlyst Sharks
+6,Binaries,Marienlyst Sharks
+7,Earthbreakwood,Marienlyst Sharks
+8,Franks,Marienlyst Sharks
+9,Handegg United,Marienlyst Sharks
+10,The Chillybows,Marienlyst Sharks
+11,Charles's Crazy Team,Marienlyst Sharks
+12,Priests with guns,Marienlyst Sharks
+13,The Adult Beverages,Marienlyst Sharks
+14,The Indubitablys,Marienlyst Sharks
+1,Handegg United,Charles's Crazy Team
+2,Marienlyst Sharks,Charles's Crazy Team
+3,The Chillybows,Charles's Crazy Team
+4,Priests with guns,Charles's Crazy Team
+5,The Adult Beverages,Charles's Crazy Team
+6,The Indubitablys,Charles's Crazy Team
+7,Binaries,Charles's Crazy Team
+8,Earthbreakwood,Charles's Crazy Team
+9,Franks,Charles's Crazy Team
+10,Handegg United,Charles's Crazy Team
+11,Marienlyst Sharks,Charles's Crazy Team
+12,The Chillybows,Charles's Crazy Team
+13,Priests with guns,Charles's Crazy Team
+14,The Adult Beverages,Charles's Crazy Team
+1,Franks,Priests with guns
+2,Handegg United,Priests with guns
+3,Marienlyst Sharks,Priests with guns
+4,Charles's Crazy Team,Priests with guns
+5,The Chillybows,Priests with guns
+6,The Adult Beverages,Priests with guns
+7,The Indubitablys,Priests with guns
+8,Binaries,Priests with guns
+9,Earthbreakwood,Priests with guns
+10,Franks,Priests with guns
+11,Handegg United,Priests with guns
+12,Marienlyst Sharks,Priests with guns
+13,Charles's Crazy Team,Priests with guns
+14,The Chillybows,Priests with guns
+1,Earthbreakwood,The Adult Beverages
+2,Franks,The Adult Beverages
+3,Handegg United,The Adult Beverages
+4,Marienlyst Sharks,The Adult Beverages
+5,Charles's Crazy Team,The Adult Beverages
+6,Priests with guns,The Adult Beverages
+7,The Chillybows,The Adult Beverages
+8,The Indubitablys,The Adult Beverages
+9,Binaries,The Adult Beverages
+10,Earthbreakwood,The Adult Beverages
+11,Franks,The Adult Beverages
+12,Handegg United,The Adult Beverages
+13,Marienlyst Sharks,The Adult Beverages
+14,Charles's Crazy Team,The Adult Beverages
+1,Marienlyst Sharks,The Chillybows
+2,Binaries,The Chillybows
+3,Charles's Crazy Team,The Chillybows
+4,Earthbreakwood,The Chillybows
+5,Priests with guns,The Chillybows
+6,Franks,The Chillybows
+7,The Adult Beverages,The Chillybows
+8,Handegg United,The Chillybows
+9,The Indubitablys,The Chillybows
+10,Marienlyst Sharks,The Chillybows
+11,Binaries,The Chillybows
+12,Charles's Crazy Team,The Chillybows
+13,Earthbreakwood,The Chillybows
+14,Priests with guns,The Chillybows

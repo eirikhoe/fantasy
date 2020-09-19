@@ -1,0 +1,133 @@
+Round 1
+1. 	Adrian Peterson (Was - RB) 	Team Pink
+2. 	Tom Brady (NE - QB) 	Binaries
+3. 	Michael Turner (Atl - RB) 	Reka FK
+4. 	Larry Fitzgerald (Ari - WR) 	Franks
+5. 	Maurice Jones-Drew (Jax - RB) 	Feil lag
+6. 	Matt Forte (NYJ - RB) 	The Indubita...
+Round 2
+1. 	DeAngelo Williams (Pit - RB) 	The Indubita...
+2. 	LaDainian Tomlinson (LAC - RB) 	Feil lag
+3. 	Eli Manning (NYG - QB) 	Franks
+4. 	Brian Westbrook (Phi - RB) 	Reka FK
+5. 	Randy Moss (SF - WR) 	Binaries
+6. 	Drew Brees (NO - QB) 	Team Pink
+Round 3
+1. 	Andre Johnson (Hou - WR) 	Team Pink
+2. 	Frank Gore (Buf - RB) 	Binaries
+3. 	Steve Smith Sr. (Bal - WR) 	Reka FK
+4. 	Chris Johnson (Ten - RB) 	Franks
+5. 	Santonio Holmes (Chi - WR) 	Feil lag
+6. 	Calvin Johnson (Det - WR) 	The Indubita...
+Round 4
+1. 	Greg Jennings (Mia - WR) 	The Indubita...
+2. 	Anquan Boldin (Buf - WR) 	Feil lag
+3. 	Steven Jackson (NE - RB) 	Franks
+4. 	Peyton Manning (Den - QB) 	Reka FK
+5. 	Steve Slaton (Mia - RB) 	Binaries
+6. 	Brandon Jacobs (NYG - RB) 	Team Pink
+Round 5
+1. 	Terrell Owens (Sea - WR) 	Team Pink
+2. 	Marques Colston (NO - WR) 	Binaries
+3. 	Reggie Wayne (NE - WR) 	Reka FK
+4. 	Antonio Gates (LAC - TE) 	Franks
+5. 	Kurt Warner (Ari - QB) 	Feil lag
+6. 	Aaron Rodgers (GB - QB) 	The Indubita...
+Round 6
+1. 	Roddy White (Atl - WR) 	The Indubita...
+2. 	Baltimore (Bal - DEF) 	Feil lag
+3. 	Tramon Williams (GB - CB) 	Franks
+4. 	Dwayne Bowe (KC - WR) 	Reka FK
+5. 	Antonio Bryant (Sea - WR) 	Binaries
+6. 	Wes Welker (LAR - WR) 	Team Pink
+Round 7
+1. 	Dallas Clark (Ind - TE) 	Team Pink
+2. 	Jason Witten (Dal - TE) 	Binaries
+3. 	Tony Gonzalez (Atl - TE) 	Reka FK
+4. 	Eddie Royal (Chi - WR) 	Franks
+5. 	Santana Moss (Was - WR) 	Feil lag
+6. 	T.J. Houshmandzadeh (Oak - WR) 	The Indubita...
+Round 8
+1. 	Greg Olsen (Car - TE) 	The Indubita...
+2. 	Ryan Longwell (GB - K) 	Feil lag
+3. 	New York (NYG - DEF) 	Franks
+4. 	Pittsburgh (Pit - DEF) 	Reka FK
+5. 	Stephen Gostkowski (NE - K) 	Binaries
+6. 	Green Bay (GB - DEF) 	Team Pink
+Round 9
+1. 	Rob Bironas (Ten - K) 	Team Pink
+2. 	New England (NE - DEF) 	Binaries
+3. 	Kris Brown (Dal - K) 	Reka FK
+4. 	Nate Kaeding (TB - K) 	Franks
+5. 	Thomas Jones (KC - RB) 	Feil lag
+6. 	Pierre Thomas (Was - RB) 	The Indubita...
+Round 10
+1. 	Philip Rivers (LAC - QB) 	The Indubita...
+2. 	Jared Allen (Min - DE) 	Feil lag
+3. 	Vincent Jackson (TB - WR) 	Franks
+4. 	Justin Miller (Det - CB) 	Reka FK
+5. 	Tony Romo (Dal - QB) 	Binaries
+6. 	Brett Favre (Min - QB) 	Team Pink
+Round 11
+1. 	Roy Williams (Chi - WR) 	Team Pink
+2. 	DeMarcus Ware (Dal - LB) 	Binaries
+3. 	Allen Rossum (Dal - CB) 	Reka FK
+4. 	John Abraham (Ari - DE) 	Franks
+5. 	Ben Roethlisberger (Pit - QB) 	Feil lag
+6. 	Will Blackmon (Was - CB) 	The Indubita...
+Round 12
+1. 	Ryan Denney (Hou - DE) 	The Indubita...
+2. 	Owen Daniels (Den - TE) 	Feil lag
+3. 	Yeremiah Bell (Ari - S) 	Franks
+4. 	Craig Terrill (Sea - DT) 	Reka FK
+5. 	Mario Williams (Mia - DE) 	Binaries
+6. 	James Harrison (NE - LB) 	Team Pink
+Round 13
+1. 	Charles Woodson (Oak - CB) 	Team Pink
+2. 	Ed Reed (Bal - S) 	Binaries
+3. 	Clinton Portis (Was - RB) 	Reka FK
+4. 	Donovan McNabb (Phi - QB) 	Franks
+5. 	Lamar Divens (SF - DT) 	Feil lag
+6. 	Joey Porter (Ari - LB) 	The Indubita...
+Round 14
+1. 	Mason Crosby (GB - K) 	The Indubita...
+2. 	Antrel Rolle (Chi - S,CB) 	Feil lag
+3. 	Kevin Boss (KC - TE) 	Franks
+4. 	Brandon Marshall (NO - WR) 	Reka FK
+5. 	Marion Barber (Chi - RB) 	Binaries
+6. 	Julius Peppers (Car - DE) 	Team Pink
+Round 15
+1. 	Ryan Grant (GB - RB) 	Team Pink
+2. 	Tennessee (Ten - DEF) 	Binaries
+3. 	Matt Schaub (Atl - QB) 	Reka FK
+4. 	Hines Ward (Pit - WR) 	Franks
+5. 	Braylon Edwards (NYJ - WR) 	Feil lag
+6. 	Brian Dawkins (Phi - S) 	The Indubita...
+Round 16
+1. 	DeSean Jackson (Phi - WR) 	The Indubita...
+2. 	Jeff Reed (Sea - K) 	Feil lag
+3. 	Tim Hightower (SF - RB) 	Franks
+4. 	Chris Cooley (Was - TE) 	Reka FK
+5. 	Chad Johnson (Mia - WR) 	Binaries
+6. 	Larry Johnson (Mia - RB) 	Team Pink
+Round 17
+1. 	Los Angeles (LAC - DEF) 	Team Pink
+2. 	Donald Driver (GB - WR) 	Binaries
+3. 	Philadelphia (Phi - DEF) 	Reka FK
+4. 	Minnesota (Min - DEF) 	Franks
+5. 	Lance Moore (NO - WR) 	Feil lag
+6. 	LaMarr Woodley (Ari - LB) 	The Indubita...
+Round 18
+1. 	Robert Mathis (Ind - DE) 	The Indubita...
+2. 	Visanthe Shiancoe (Ten - TE) 	Feil lag
+3. 	Chris Gamble (Car - CB) 	Franks
+4. 	David Akers (Det - K) 	Reka FK
+5. 	Kellen Winslow (NYJ - TE) 	Binaries
+6. 	Anthony Gonzalez (NE - WR) 	Team Pink
+Round 19
+1. 	Nick Folk (TB - K) 	Team Pink
+2. 	Adam Vinatieri (Ind - K) 	Binaries
+3. 	Ellis Hobbs (Phi - CB) 	Reka FK
+4. 	Albert Haynesworth (TB - DT) 	Franks
+5. 	New York (NYJ - DEF) 	Feil lag
+6. 	Troy Polamalu (Pit - S) 	The Indubita...

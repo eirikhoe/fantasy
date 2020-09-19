@@ -1,0 +1,112 @@
+1 	The Chillybows 	Loss 	133.16 - 179.26 	
+2 	Franks 	Win 	125.37 - 110.01 	
+3 	Polk High Panthers 	Win 	202.11 - 138.77 	
+4 	Priests with guns 	Loss 	135.82 - 142.28 	
+5 	Earthbreakwood 	Loss 	126.58 - 148.23 	
+6 	The Indubitablys 	Loss 	150.45 - 169.40 	
+7 	The Adult Beverages 	Loss 	148.24 - 159.84 	
+8 	The Chillybows 	Win 	135.99 - 129.65 	
+9 	Franks 	Win 	141.78 - 138.35 	
+10 	Polk High Panthers 	Win 	167.92 - 145.56 	
+11 	Priests with guns 	Win 	192.47 - 138.83 	
+12 	Earthbreakwood 	Win 	176.84 - 131.55 	
+13 	The Indubitablys 	Loss 	137.25 - 171.96 	
+14 	The Adult Beverages 	Win 	127.63 - 95.77
+1 	Franks 	Win 	141.75 - 141.57 	
+2 	The Chillybows 	Win 	188.94 - 140.15 	
+3 	Priests with guns 	Win 	90.70 - 87.85 	
+4 	Polk High Panthers 	Win 	119.27 - 91.13 	
+5 	Binaries 	Win 	148.23 - 126.58 	
+6 	The Adult Beverages 	Win 	125.94 - 93.53 	
+7 	The Indubitablys 	Win 	167.86 - 101.05 	
+8 	Franks 	Win 	175.63 - 129.49 	
+9 	The Chillybows 	Win 	166.82 - 143.56 	
+10 	Priests with guns 	Win 	155.24 - 136.51 	
+11 	Polk High Panthers 	Win 	106.07 - 105.70 	
+12 	Binaries 	Loss 	131.55 - 176.84 	
+13 	The Adult Beverages 	Loss 	131.34 - 139.54 	
+14 	The Indubitablys 	Loss 	126.18 - 146.06
+1 	Earthbreakwood 	Loss 	141.57 - 141.75 	
+2 	Binaries 	Loss 	110.01 - 125.37 	
+3 	The Indubitablys 	Loss 	147.59 - 182.52 	
+4 	The Adult Beverages 	Win 	164.25 - 121.34 	
+5 	The Chillybows 	Win 	177.07 - 144.18 	
+6 	Polk High Panthers 	Loss 	128.07 - 152.40 	
+7 	Priests with guns 	Win 	149.84 - 139.61 	
+8 	Earthbreakwood 	Loss 	129.49 - 175.63 	
+9 	Binaries 	Loss 	138.35 - 141.78 	
+10 	The Indubitablys 	Win 	175.39 - 116.52 	
+11 	The Adult Beverages 	Win 	150.99 - 123.03 	
+12 	The Chillybows 	Win 	160.31 - 150.82 	
+13 	Polk High Panthers 	Win 	169.23 - 79.96 	
+14 	Priests with guns 	Loss 	89.86 - 158.12
+1 	Polk High Panthers 	Win 	140.58 - 126.96 	
+2 	Priests with guns 	Win 	141.16 - 107.39 	
+3 	The Chillybows 	Loss 	148.64 - 212.36 	
+4 	Franks 	Loss 	121.34 - 164.25 	
+5 	The Indubitablys 	Loss 	111.64 - 175.66 	
+6 	Earthbreakwood 	Loss 	93.53 - 125.94 	
+7 	Binaries 	Win 	159.84 - 148.24 	
+8 	Polk High Panthers 	Loss 	103.27 - 128.23 	
+9 	Priests with guns 	Loss 	138.41 - 146.82 	
+10 	The Chillybows 	Loss 	112.10 - 161.73 	
+11 	Franks 	Loss 	123.03 - 150.99 	
+12 	The Indubitablys 	Loss 	148.70 - 168.39 	
+13 	Earthbreakwood 	Win 	139.54 - 131.34 	
+14 	Binaries 	Loss 	95.77 - 127.63
+1 	The Adult Beverages 	Loss 	126.96 - 140.58 	
+2 	The Indubitablys 	Win 	160.90 - 158.88 	
+3 	Binaries 	Loss 	138.77 - 202.11 	
+4 	Earthbreakwood 	Loss 	91.13 - 119.27 	
+5 	Priests with guns 	Win 	130.86 - 92.43 	
+6 	Franks 	Win 	152.40 - 128.07 	
+7 	The Chillybows 	Loss 	129.01 - 184.83 	
+8 	The Adult Beverages 	Win 	128.23 - 103.27 	
+9 	The Indubitablys 	Win 	120.59 - 115.93 	
+10 	Binaries 	Loss 	145.56 - 167.92 	
+11 	Earthbreakwood 	Loss 	105.70 - 106.07 	
+12 	Priests with guns 	Win 	146.29 - 119.10 	
+13 	Franks 	Loss 	79.96 - 169.23 	
+14 	The Chillybows 	Win 	143.10 - 120.55
+1 	The Indubitablys 	Win 	224.82 - 116.63 	
+2 	The Adult Beverages 	Loss 	107.39 - 141.16 	
+3 	Earthbreakwood 	Loss 	87.85 - 90.70 	
+4 	Binaries 	Win 	142.28 - 135.82 	
+5 	Polk High Panthers 	Loss 	92.43 - 130.86 	
+6 	The Chillybows 	Win 	183.66 - 112.60 	
+7 	Franks 	Loss 	139.61 - 149.84 	
+8 	The Indubitablys 	Loss 	137.22 - 144.49 	
+9 	The Adult Beverages 	Win 	146.82 - 138.41 	
+10 	Earthbreakwood 	Loss 	136.51 - 155.24 	
+11 	Binaries 	Loss 	138.83 - 192.47 	
+12 	Polk High Panthers 	Loss 	119.10 - 146.29 	
+13 	The Chillybows 	Win 	155.95 - 149.14 	
+14 	Franks 	Win 	158.12 - 89.86
+1 	Binaries 	Win 	179.26 - 133.16 	
+2 	Earthbreakwood 	Loss 	140.15 - 188.94 	
+3 	The Adult Beverages 	Win 	212.36 - 148.64 	
+4 	The Indubitablys 	Loss 	151.23 - 169.13 	
+5 	Franks 	Loss 	144.18 - 177.07 	
+6 	Priests with guns 	Loss 	112.60 - 183.66 	
+7 	Polk High Panthers 	Win 	184.83 - 129.01 	
+8 	Binaries 	Loss 	129.65 - 135.99 	
+9 	Earthbreakwood 	Loss 	143.56 - 166.82 	
+10 	The Adult Beverages 	Win 	161.73 - 112.10 	
+11 	The Indubitablys 	Win 	142.03 - 133.27 	
+12 	Franks 	Loss 	150.82 - 160.31 	
+13 	Priests with guns 	Loss 	149.14 - 155.95 	
+14 	Polk High Panthers 	Loss 	120.55 - 143.10 
+1 	Priests with guns 	Loss 	116.63 - 224.82 	
+2 	Polk High Panthers 	Loss 	158.88 - 160.90 	
+3 	Franks 	Win 	182.52 - 147.59 	
+4 	The Chillybows 	Win 	169.13 - 151.23 	
+5 	The Adult Beverages 	Win 	175.66 - 111.64 	
+6 	Binaries 	Win 	169.40 - 150.45 	
+7 	Earthbreakwood 	Loss 	101.05 - 167.86 	
+8 	Priests with guns 	Win 	144.49 - 137.22 	
+9 	Polk High Panthers 	Loss 	115.93 - 120.59 	
+10 	Franks 	Loss 	116.52 - 175.39 	
+11 	The Chillybows 	Loss 	133.27 - 142.03 	
+12 	The Adult Beverages 	Win 	168.39 - 148.70 	
+13 	Binaries 	Win 	171.96 - 137.25 	
+14 	Earthbreakwood 	Win 	146.06 - 126.18	

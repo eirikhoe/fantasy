@@ -1,0 +1,60 @@
+1 	The Indubitablys 	Win 	102.00 - 98.00 	
+2 	Mutant Penguinz 	Win 	126.00 - 80.00 	
+3 	Team Pink 	Win 	122.00 - 115.00 	
+4 	The Indubitablys 	Win 	121.00 - 112.00 	
+5 	Mutant Penguinz 	Win 	97.00 - 87.00 	
+6 	Team Pink 	Win 	128.00 - 121.00 	
+7 	The Indubitablys 	Win 	140.00 - 62.00 	
+8 	Mutant Penguinz 	Win 	118.00 - 54.00 	
+9 	Team Pink 	Win 	102.00 - 99.00 	
+10 	The Indubitablys 	Loss 	117.00 - 127.00 	
+11 	Mutant Penguinz 	Win 	112.00 - 59.00 	
+12 	Team Pink 	Win 	103.00 - 59.00 	
+13 	The Indubitablys 	Loss 	76.00 - 146.00 	
+14 	Mutant Penguinz 	Win 	92.00 - 75.00 	
+15 	Team Pink 	Win 	147.00 - 103.00
+1 	Binaries 	Loss 	98.00 - 102.00 	
+2 	Team Pink 	Win 	132.00 - 101.00 	
+3 	Mutant Penguinz 	Loss 	65.00 - 84.00 	
+4 	Binaries 	Loss 	112.00 - 121.00 	
+5 	Team Pink 	Loss 	103.00 - 107.00 	
+6 	Mutant Penguinz 	Loss 	90.00 - 136.00 	
+7 	Binaries 	Loss 	62.00 - 140.00 	
+8 	Team Pink 	Win 	104.00 - 57.00 	
+9 	Mutant Penguinz 	Win 	92.00 - 73.00 	
+10 	Binaries 	Win 	127.00 - 117.00 	
+11 	Team Pink 	Win 	141.00 - 123.00 	
+12 	Mutant Penguinz 	Loss 	97.00 - 127.00 	
+13 	Binaries 	Win 	146.00 - 76.00 	
+14 	Team Pink 	Win 	130.00 - 90.00 	
+15 	Mutant Penguinz 	Loss 	95.00 - 168.00
+1 	Team Pink 	Win 	92.00 - 69.00 	
+2 	Binaries 	Loss 	80.00 - 126.00 	
+3 	The Indubitablys 	Win 	84.00 - 65.00 	
+4 	Team Pink 	Win 	121.00 - 86.00 	
+5 	Binaries 	Loss 	87.00 - 97.00 	
+6 	The Indubitablys 	Win 	136.00 - 90.00 	
+7 	Team Pink 	Win 	114.00 - 77.00 	
+8 	Binaries 	Loss 	54.00 - 118.00 	
+9 	The Indubitablys 	Loss 	73.00 - 92.00 	
+10 	Team Pink 	Loss 	84.00 - 123.00 	
+11 	Binaries 	Loss 	59.00 - 112.00 	
+12 	The Indubitablys 	Win 	127.00 - 97.00 	
+13 	Team Pink 	Win 	115.00 - 64.00 	
+14 	Binaries 	Loss 	75.00 - 92.00 	
+15 	The Indubitablys 	Win 	168.00 - 95.00
+1 	Mutant Penguinz 	Loss 	69.00 - 92.00 	
+2 	The Indubitablys 	Loss 	101.00 - 132.00 	
+3 	Binaries 	Loss 	115.00 - 122.00 	
+4 	Mutant Penguinz 	Loss 	86.00 - 121.00 	
+5 	The Indubitablys 	Win 	107.00 - 103.00 	
+6 	Binaries 	Loss 	121.00 - 128.00 	
+7 	Mutant Penguinz 	Loss 	77.00 - 114.00 	
+8 	The Indubitablys 	Loss 	57.00 - 104.00 	
+9 	Binaries 	Loss 	99.00 - 102.00 	
+10 	Mutant Penguinz 	Win 	123.00 - 84.00 	
+11 	The Indubitablys 	Loss 	123.00 - 141.00 	
+12 	Binaries 	Loss 	59.00 - 103.00 	
+13 	Mutant Penguinz 	Loss 	64.00 - 115.00 	
+14 	The Indubitablys 	Loss 	90.00 - 130.00 	
+15 	Binaries 	Loss 	103.00 - 147.00

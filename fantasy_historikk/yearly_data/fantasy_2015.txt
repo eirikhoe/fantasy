@@ -1,0 +1,112 @@
+1 	Nuns with guns 	Win 	176.25 - 150.96 	
+2 	The Chillybows 	Win 	183.71 - 132.84 	
+3 	Franks 	Loss 	142.74 - 175.93 	
+4 	The Indubitablys 	Loss 	121.62 - 174.75 	
+5 	Priests with guns 	Win 	153.63 - 150.93 	
+6 	Earthbreakwood 	Win 	154.33 - 150.35 	
+7 	Polk High Panthers 	Win 	153.13 - 114.37 	
+8 	Nuns with guns 	Loss 	146.71 - 148.49 	
+9 	The Chillybows 	Win 	179.18 - 154.97 	
+10 	Franks 	Loss 	145.47 - 164.32 	
+11 	The Indubitablys 	Loss 	127.52 - 173.14 	
+12 	Priests with guns 	Loss 	137.79 - 146.06 	
+13 	Earthbreakwood 	Loss 	123.34 - 138.82 	
+14 	Polk High Panthers 	Win 	167.05 - 134.05
+1 	The Chillybows 	Win 	189.62 - 140.82 	
+2 	Franks 	Win 	136.47 - 111.91 	
+3 	Nuns with guns 	Win 	171.87 - 162.03 	
+4 	Binaries 	Win 	174.75 - 121.62 	
+5 	Polk High Panthers 	Win 	141.63 - 137.22 	
+6 	Priests with guns 	Loss 	149.81 - 165.53 	
+7 	Earthbreakwood 	Win 	170.96 - 140.15 	
+8 	The Chillybows 	Win 	175.19 - 149.92 	
+9 	Franks 	Win 	148.33 - 142.84 	
+10 	Nuns with guns 	Win 	141.57 - 117.19 	
+11 	Binaries 	Win 	173.14 - 127.52 	
+12 	Polk High Panthers 	Win 	173.29 - 110.33 	
+13 	Priests with guns 	Loss 	162.41 - 186.39 	
+14 	Earthbreakwood 	Win 	162.14 - 79.33
+1 	Polk High Panthers 	Win 	137.19 - 136.78 	
+2 	Earthbreakwood 	Loss 	97.01 - 124.94 	
+3 	The Chillybows 	Win 	186.76 - 157.08 	
+4 	Nuns with guns 	Win 	115.04 - 102.51 	
+5 	Binaries 	Loss 	150.93 - 153.63 	
+6 	The Indubitablys 	Win 	165.53 - 149.81 	
+7 	Franks 	Win 	182.25 - 128.56 	
+8 	Polk High Panthers 	Win 	153.50 - 146.23 	
+9 	Earthbreakwood 	Win 	177.25 - 172.42 	
+10 	The Chillybows 	Loss 	128.28 - 138.35 	
+11 	Nuns with guns 	Loss 	120.77 - 133.54 	
+12 	Binaries 	Win 	146.06 - 137.79 	
+13 	The Indubitablys 	Win 	186.39 - 162.41 	
+14 	Franks 	Win 	190.34 - 142.70
+1 	Binaries 	Loss 	150.96 - 176.25 	
+2 	Polk High Panthers 	Win 	165.35 - 130.01 	
+3 	The Indubitablys 	Loss 	162.03 - 171.87 	
+4 	Priests with guns 	Loss 	102.51 - 115.04 	
+5 	Earthbreakwood 	Win 	151.47 - 142.34 	
+6 	Franks 	Loss 	152.60 - 154.35 	
+7 	The Chillybows 	Loss 	131.89 - 145.44 	
+8 	Binaries 	Win 	148.49 - 146.71 	
+9 	Polk High Panthers 	Loss 	96.11 - 137.18 	
+10 	The Indubitablys 	Loss 	117.19 - 141.57 	
+11 	Priests with guns 	Win 	133.54 - 120.77 	
+12 	Earthbreakwood 	Loss 	130.61 - 136.82 	
+13 	Franks 	Loss 	152.15 - 160.80 	
+14 	The Chillybows 	Loss 	93.71 - 103.15
+1 	Earthbreakwood 	Loss 	101.28 - 139.88 	
+2 	The Indubitablys 	Loss 	111.91 - 136.47 	
+3 	Binaries 	Win 	175.93 - 142.74 	
+4 	Polk High Panthers 	Loss 	107.83 - 118.33 	
+5 	The Chillybows 	Loss 	110.01 - 138.91 	
+6 	Nuns with guns 	Win 	154.35 - 152.60 	
+7 	Priests with guns 	Loss 	128.56 - 182.25 	
+8 	Earthbreakwood 	Loss 	140.82 - 145.71 	
+9 	The Indubitablys 	Loss 	142.84 - 148.33 	
+10 	Binaries 	Win 	164.32 - 145.47 	
+11 	Polk High Panthers 	Loss 	89.63 - 146.98 	
+12 	The Chillybows 	Win 	197.94 - 168.73 	
+13 	Nuns with guns 	Win 	160.80 - 152.15 	
+14 	Priests with guns 	Loss 	142.70 - 190.34
+1 	Franks 	Win 	139.88 - 101.28 	
+2 	Priests with guns 	Win 	124.94 - 97.01 	
+3 	Polk High Panthers 	Win 	166.21 - 115.03 	
+4 	The Chillybows 	Loss 	105.97 - 162.83 	
+5 	Nuns with guns 	Loss 	142.34 - 151.47 	
+6 	Binaries 	Loss 	150.35 - 154.33 	
+7 	The Indubitablys 	Loss 	140.15 - 170.96 	
+8 	Franks 	Win 	145.71 - 140.82 	
+9 	Priests with guns 	Loss 	172.42 - 177.25 	
+10 	Polk High Panthers 	Win 	131.09 - 121.14 	
+11 	The Chillybows 	Loss 	96.87 - 96.98 	
+12 	Nuns with guns 	Win 	136.82 - 130.61 	
+13 	Binaries 	Win 	138.82 - 123.34 	
+14 	The Indubitablys 	Loss 	79.33 - 162.14
+1 	The Indubitablys 	Loss 	140.82 - 189.62 	
+2 	Binaries 	Loss 	132.84 - 183.71 	
+3 	Priests with guns 	Loss 	157.08 - 186.76 	
+4 	Earthbreakwood 	Win 	162.83 - 105.97 	
+5 	Franks 	Win 	138.91 - 110.01 	
+6 	Polk High Panthers 	Win 	157.87 - 127.73 	
+7 	Nuns with guns 	Win 	145.44 - 131.89 	
+8 	The Indubitablys 	Loss 	149.92 - 175.19 	
+9 	Binaries 	Loss 	154.97 - 179.18 	
+10 	Priests with guns 	Win 	138.35 - 128.28 	
+11 	Earthbreakwood 	Win 	96.98 - 96.87 	
+12 	Franks 	Loss 	168.73 - 197.94 	
+13 	Polk High Panthers 	Loss 	131.31 - 184.96 	
+14 	Nuns with guns 	Win 	103.15 - 93.71
+1 	Priests with guns 	Loss 	136.78 - 137.19 	
+2 	Nuns with guns 	Loss 	130.01 - 165.35 	
+3 	Earthbreakwood 	Loss 	115.03 - 166.21 	
+4 	Franks 	Win 	118.33 - 107.83 	
+5 	The Indubitablys 	Loss 	137.22 - 141.63 	
+6 	The Chillybows 	Loss 	127.73 - 157.87 	
+7 	Binaries 	Loss 	114.37 - 153.13 	
+8 	Priests with guns 	Loss 	146.23 - 153.50 	
+9 	Nuns with guns 	Win 	137.18 - 96.11 	
+10 	Earthbreakwood 	Loss 	121.14 - 131.09 	
+11 	Franks 	Win 	146.98 - 89.63 	
+12 	The Indubitablys 	Loss 	110.33 - 173.29 	
+13 	The Chillybows 	Win 	184.96 - 131.31 	
+14 	Binaries 	Loss 	134.05 - 167.05

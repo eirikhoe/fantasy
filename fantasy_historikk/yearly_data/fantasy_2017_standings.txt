@@ -1,0 +1,11 @@
+Rank 	Team 	W-L-T 	Pct 	Pts For 	Pts Against 	Streak 	Waiver Budget 	Waiver 	Moves
+*1. 	Binaries 	8-6-0 	.571 	1921.00 	1961.70 	L-2 	$100 	9 	20
+*2. 	The Adult Beverages 	13-1-0 	.929 	2038.27 	1694.42 	W-1 	$0 	10 	24
+*3. 	Marienlyst Mofo's 	8-6-0 	.571 	1857.60 	1697.37 	W-4 	$2 	7 	50
+*4. 	Priests with guns 	8-6-0 	.571 	1898.04 	1827.64 	W-2 	$1 	8 	46
+5. 	Franks 	5-9-0 	.357 	1920.68 	1933.08 	L-4 	$40 	3 	25
+6. 	The Indubitablys 	5-9-0 	.357 	1829.86 	1873.67 	L-1 	$38 	4 	43
+7. 	Polk High Panthers 	6-8-0 	.429 	1911.29 	1897.19 	W-1 	$100 	5 	11
+7. 	Average Joes 	6-8-0 	.429 	1882.46 	1991.03 	W-2 	$100 	2 	-
+8. 	Earthbreakwood 	7-7-0 	.500 	1839.95 	1937.53 	L-1 	$12 	6 	35
+10. 	The Chillybows 	4-10-0 	.286 	1837.82 	2123.34 	L-2 	$98 	1 	26

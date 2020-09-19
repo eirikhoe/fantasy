@@ -1,0 +1,90 @@
+Round 1
+1. 	Tom Brady (NE - QB) 	Binaries
+2. 	LaDainian Tomlinson (LAC - RB) 	The Indubita...
+3. 	Peyton Manning (Den - QB) 	Team Pink
+4. 	Adrian Peterson (Was - RB) 	Mutant Penguinz
+Round 2
+1. 	Steven Jackson (NE - RB) 	Mutant Penguinz
+2. 	Joseph Addai (NE - RB) 	Team Pink
+3. 	Brian Westbrook (Phi - RB) 	The Indubita...
+4. 	Randy Moss (SF - WR) 	Binaries
+Round 3
+1. 	Frank Gore (Buf - RB) 	Binaries
+2. 	Terrell Owens (Sea - WR) 	The Indubita...
+3. 	Reggie Wayne (NE - WR) 	Team Pink
+4. 	Andre Johnson (Hou - WR) 	Mutant Penguinz
+Round 4
+1. 	Braylon Edwards (NYJ - WR) 	Mutant Penguinz
+2. 	T.J. Houshmandzadeh (Oak - WR) 	Team Pink
+3. 	Clinton Portis (Was - RB) 	The Indubita...
+4. 	Marion Barber (Chi - RB) 	Binaries
+Round 5
+1. 	Marques Colston (NO - WR) 	Binaries
+2. 	Plaxico Burress (Pit - WR) 	The Indubita...
+3. 	Wes Welker (LAR - WR) 	Team Pink
+4. 	Steve Smith Sr. (Bal - WR) 	Mutant Penguinz
+Round 6
+1. 	Tony Romo (Dal - QB) 	Mutant Penguinz
+2. 	Maurice Jones-Drew (Jax - RB) 	Team Pink
+3. 	Laurence Maroney (Den - RB) 	The Indubita...
+4. 	Larry Fitzgerald (Ari - WR) 	Binaries
+Round 7
+1. 	Antonio Gates (LAC - TE) 	Binaries
+2. 	Reggie Bush (Buf - RB) 	The Indubita...
+3. 	Jason Witten (Dal - TE) 	Team Pink
+4. 	Kellen Winslow (NYJ - TE) 	Mutant Penguinz
+Round 8
+1. 	Minnesota (Min - DEF) 	Mutant Penguinz
+2. 	Los Angeles (LAC - DEF) 	Team Pink
+3. 	Ben Roethlisberger (Pit - QB) 	The Indubita...
+4. 	New England (NE - DEF) 	Binaries
+Round 9
+1. 	Stephen Gostkowski (NE - K) 	Binaries
+2. 	Dallas Clark (Ind - TE) 	The Indubita...
+3. 	Nick Folk (TB - K) 	Team Pink
+4. 	Shayne Graham (Atl - K) 	Mutant Penguinz
+Round 10
+1. 	Will Blackmon (Was - DB) 	Mutant Penguinz
+2. 	Brett Favre (Min - QB) 	Team Pink
+3. 	Pittsburgh (Pit - DEF) 	The Indubita...
+4. 	David Garrard (NYJ - QB) 	Binaries
+Round 11
+1. 	Torry Holt (NE - WR) 	Binaries
+2. 	Adam Vinatieri (Ind - K) 	The Indubita...
+3. 	Jared Allen (Min - DL) 	Team Pink
+4. 	Mike Vrabel (KC - DL) 	Mutant Penguinz
+Round 12
+1. 	Willie Andrews (NE - DB) 	Mutant Penguinz
+2. 	Josh Wilson (Det - DB) 	Team Pink
+3. 	Brandon Marshall (NO - WR) 	The Indubita...
+4. 	Travis Williams (Atl - DL) 	Binaries
+Round 13
+1. 	Adrian Wilson (Ari - DB) 	Binaries
+2. 	Eli Manning (NYG - QB) 	The Indubita...
+3. 	Aaron Kampman (Jax - DL) 	Team Pink
+4. 	Marshawn Lynch (Oak - RB) 	Mutant Penguinz
+Round 14
+1. 	Chad Johnson (Mia - WR) 	Mutant Penguinz
+2. 	Donald Driver (GB - WR) 	Team Pink
+3. 	T.J. Rushing (Det - DB) 	The Indubita...
+4. 	Antonio Cromartie (Ind - DB) 	Binaries
+Round 15
+1. 	Larry Johnson (Mia - RB) 	Binaries
+2. 	Adam Jones (Den - DB) 	The Indubita...
+3. 	Gibril Wilson (Cin - DB) 	Team Pink
+4. 	Drew Brees (NO - QB) 	Mutant Penguinz
+Round 16
+1. 	Tony Gonzalez (Atl - TE) 	Mutant Penguinz
+2. 	Roy Williams (Chi - WR) 	Team Pink
+3. 	Montae Reagor (Phi - DL) 	The Indubita...
+4. 	Greg Jennings (Mia - WR) 	Binaries
+Round 17
+1. 	Trent Cole (Ind - DL) 	Binaries
+2. 	Anquan Boldin (Buf - WR) 	The Indubita...
+3. 	Ryan Grant (GB - RB) 	Team Pink
+4. 	Chicago (Chi - DEF) 	Mutant Penguinz
+Round 18
+1. 	Nate Kaeding (TB - K) 	Mutant Penguinz
+2. 	Dallas (Dal - DEF) 	Team Pink
+3. 	Tramon Williams (GB - DB) 	The Indubita...
+4. 	Green Bay (GB - DEF) 	Binaries

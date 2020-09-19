@@ -1,0 +1,7 @@
+Rank 	Team 	W-L-T 	Pct 	Pts For 	Pts Against 	Streak 	Waiver 	Moves
+*1. 	Binaries 	8-7-0 	.533 	1739.80 	1756.00 	L-2 	5 	29
+*2. 	Team Pink 	8-7-0 	.533 	1940.00 	1754.40 	W-2 	3 	19
+*3. 	The Indubitablys 	10-5-0 	.667 	1912.00 	1724.00 	W-3 	4 	79
+*4. 	Franks 	11-4-0 	.733 	1855.00 	1728.40 	L-2 	6 	42
+5. 	Feil lag 	3-12-0 	.200 	1657.60 	1966.40 	L-7 	1 	17
+6. 	Reka FK 	5-10-0 	.333 	1717.80 	1893.00 	W-2 	2 	-

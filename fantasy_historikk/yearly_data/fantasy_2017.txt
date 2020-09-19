@@ -1,0 +1,140 @@
+1 	Earthbreakwood 	Win 	121.50 - 117.23 	
+2 	Franks 	Win 	165.46 - 128.37 	
+3 	Polk High Panthers 	Loss 	132.89 - 197.55 	
+4 	Priests with guns 	Win 	160.21 - 119.72 	
+5 	The Adult Beverages 	Loss 	122.74 - 166.67 	
+6 	The Chillybows 	Win 	176.06 - 96.82 	
+7 	The Indubitablys 	Loss 	113.92 - 164.29 	
+8 	Marienlyst Mofo's 	Win 	150.16 - 144.66 	
+9 	Average Joes 	Win 	133.03 - 125.01 	
+10 	Earthbreakwood 	Loss 	96.85 - 161.87 	
+11 	Franks 	Win 	146.55 - 110.25 	
+12 	Polk High Panthers 	Win 	164.81 - 102.18 	
+13 	Priests with guns 	Loss 	100.77 - 153.40 	
+14 	The Adult Beverages 	Loss 	136.05 - 173.68
+1 	Binaries 	Loss 	117.23 - 121.50 	
+2 	Average Joes 	Loss 	109.97 - 140.98 	
+3 	Franks 	Loss 	90.32 - 159.76 	
+4 	Polk High Panthers 	Loss 	120.38 - 183.44 	
+5 	Priests with guns 	Loss 	147.66 - 178.10 	
+6 	The Adult Beverages 	Loss 	99.18 - 139.55 	
+7 	The Chillybows 	Win 	201.62 - 142.51 	
+8 	The Indubitablys 	Win 	133.46 - 116.81 	
+9 	Marienlyst Mofo's 	Win 	134.15 - 131.96 	
+10 	Binaries 	Win 	161.87 - 96.85 	
+11 	Average Joes 	Win 	141.26 - 135.56 	
+12 	Franks 	Win 	157.84 - 129.21 	
+13 	Polk High Panthers 	Win 	137.38 - 131.30 	
+14 	Priests with guns 	Loss 	87.63 - 130.00
+1 	Marienlyst Mofo's 	Win 	139.80 - 94.15 	
+2 	Binaries 	Loss 	128.37 - 165.46 	
+3 	Earthbreakwood 	Win 	159.76 - 90.32 	
+4 	Average Joes 	Loss 	137.57 - 140.67 	
+5 	Polk High Panthers 	Win 	159.34 - 135.82 	
+6 	Priests with guns 	Loss 	153.95 - 163.63 	
+7 	The Adult Beverages 	Loss 	116.46 - 124.60 	
+8 	The Chillybows 	Win 	164.52 - 145.97 	
+9 	The Indubitablys 	Loss 	109.42 - 156.97 	
+10 	Marienlyst Mofo's 	Win 	140.03 - 115.76 	
+11 	Binaries 	Loss 	110.25 - 146.55 	
+12 	Earthbreakwood 	Loss 	129.21 - 157.84 	
+13 	Average Joes 	Loss 	126.58 - 140.84 	
+14 	Polk High Panthers 	Loss 	145.42 - 154.50
+1 	The Indubitablys 	Loss 	100.80 - 124.75 	
+2 	Marienlyst Mofo's 	Loss 	111.61 - 128.11 	
+3 	Binaries 	Win 	197.55 - 132.89 	
+4 	Earthbreakwood 	Win 	183.44 - 120.38 	
+5 	Franks 	Loss 	135.82 - 159.34 	
+6 	Average Joes 	Win 	135.72 - 128.29 	
+7 	Priests with guns 	Win 	161.38 - 117.58 	
+8 	The Adult Beverages 	Loss 	109.00 - 116.04 	
+9 	The Chillybows 	Win 	143.18 - 121.51 	
+10 	The Indubitablys 	Loss 	126.98 - 156.21 	
+11 	Marienlyst Mofo's 	Loss 	117.83 - 144.48 	
+12 	Binaries 	Loss 	102.18 - 164.81 	
+13 	Earthbreakwood 	Loss 	131.30 - 137.38 	
+14 	Franks 	Win 	154.50 - 145.42
+1 	The Chillybows 	Loss 	113.14 - 120.29 	
+2 	The Indubitablys 	Win 	160.13 - 135.01 	
+3 	Marienlyst Mofo's 	Loss 	100.64 - 133.24 	
+4 	Binaries 	Loss 	119.72 - 160.21 	
+5 	Earthbreakwood 	Win 	178.10 - 147.66 	
+6 	Franks 	Win 	163.63 - 153.95 	
+7 	Polk High Panthers 	Loss 	117.58 - 161.38 	
+8 	Average Joes 	Win 	185.45 - 135.08 	
+9 	The Adult Beverages 	Loss 	97.24 - 105.62 	
+10 	The Chillybows 	Win 	132.56 - 106.24 	
+11 	The Indubitablys 	Win 	153.49 - 113.15 	
+12 	Marienlyst Mofo's 	Loss 	92.96 - 167.41 	
+13 	Binaries 	Win 	153.40 - 100.77 	
+14 	Earthbreakwood 	Win 	130.00 - 87.63
+1 	Average Joes 	Win 	148.56 - 116.46 	
+2 	The Chillybows 	Win 	169.32 - 129.82 	
+3 	The Indubitablys 	Win 	156.02 - 110.60 	
+4 	Marienlyst Mofo's 	Win 	143.84 - 136.51 	
+5 	Binaries 	Win 	166.67 - 122.74 	
+6 	Earthbreakwood 	Win 	139.55 - 99.18 	
+7 	Franks 	Win 	124.60 - 116.46 	
+8 	Polk High Panthers 	Win 	116.04 - 109.00 	
+9 	Priests with guns 	Win 	105.62 - 97.24 	
+10 	Average Joes 	Win 	143.15 - 129.56 	
+11 	The Chillybows 	Win 	178.27 - 120.44 	
+12 	The Indubitablys 	Win 	159.39 - 103.73 	
+13 	Marienlyst Mofo's 	Loss 	113.56 - 166.63 	
+14 	Binaries 	Win 	173.68 - 136.05
+1 	Priests with guns 	Win 	120.29 - 113.14 	
+2 	The Adult Beverages 	Loss 	129.82 - 169.32 	
+3 	Average Joes 	Win 	155.51 - 135.13 	
+4 	The Indubitablys 	Win 	145.73 - 115.53 	
+5 	Marienlyst Mofo's 	Loss 	80.10 - 102.74 	
+6 	Binaries 	Loss 	96.82 - 176.06 	
+7 	Earthbreakwood 	Loss 	142.51 - 201.62 	
+8 	Franks 	Loss 	145.97 - 164.52 	
+9 	Polk High Panthers 	Loss 	121.51 - 143.18 	
+10 	Priests with guns 	Loss 	106.24 - 132.56 	
+11 	The Adult Beverages 	Loss 	120.44 - 178.27 	
+12 	Average Joes 	Win 	203.16 - 134.69 	
+13 	The Indubitablys 	Loss 	138.05 - 187.17 	
+14 	Marienlyst Mofo's 	Loss 	131.67 - 169.41
+1 	Polk High Panthers 	Win 	124.75 - 100.80 	
+2 	Priests with guns 	Loss 	135.01 - 160.13 	
+3 	The Adult Beverages 	Loss 	110.60 - 156.02 	
+4 	The Chillybows 	Loss 	115.53 - 145.73 	
+5 	Average Joes 	Loss 	133.02 - 136.65 	
+6 	Marienlyst Mofo's 	Loss 	98.22 - 98.89 	
+7 	Binaries 	Win 	164.29 - 113.92 	
+8 	Earthbreakwood 	Loss 	116.81 - 133.46 	
+9 	Franks 	Win 	156.97 - 109.42 	
+10 	Polk High Panthers 	Win 	156.21 - 126.98 	
+11 	Priests with guns 	Loss 	113.15 - 153.49 	
+12 	The Adult Beverages 	Loss 	103.73 - 159.39 	
+13 	The Chillybows 	Win 	187.17 - 138.05 	
+14 	Average Joes 	Loss 	114.40 - 140.74
+1 	Franks 	Loss 	94.15 - 139.80 	
+2 	Polk High Panthers 	Win 	128.11 - 111.61 	
+3 	Priests with guns 	Win 	133.24 - 100.64 	
+4 	The Adult Beverages 	Loss 	136.51 - 143.84 	
+5 	The Chillybows 	Win 	102.74 - 80.10 	
+6 	The Indubitablys 	Win 	98.89 - 98.22 	
+7 	Average Joes 	Loss 	123.65 - 142.80 	
+8 	Binaries 	Loss 	144.66 - 150.16 	
+9 	Earthbreakwood 	Loss 	131.96 - 134.15 	
+10 	Franks 	Loss 	115.76 - 140.03 	
+11 	Polk High Panthers 	Win 	144.48 - 117.83 	
+12 	Priests with guns 	Win 	167.41 - 92.96 	
+13 	The Adult Beverages 	Win 	166.63 - 113.56 	
+14 	The Chillybows 	Win 	169.41 - 131.67
+1 	The Adult Beverages 	Loss 	116.46 - 148.56 	
+2 	Earthbreakwood 	Win 	140.98 - 109.97 	
+3 	The Chillybows 	Loss 	135.13 - 155.51 	
+4 	Franks 	Win 	140.67 - 137.57 	
+5 	The Indubitablys 	Win 	136.65 - 133.02 	
+6 	Polk High Panthers 	Loss 	128.29 - 135.72 	
+7 	Marienlyst Mofo's 	Win 	142.80 - 123.65 	
+8 	Priests with guns 	Loss 	135.08 - 185.45 	
+9 	Binaries 	Loss 	125.01 - 133.03 	
+10 	The Adult Beverages 	Loss 	129.56 - 143.15 	
+11 	Earthbreakwood 	Loss 	135.56 - 141.26 	
+12 	The Chillybows 	Loss 	134.69 - 203.16 	
+13 	Franks 	Win 	140.84 - 126.58 	
+14 	The Indubitablys 	Win 	140.74 - 114.40

@@ -1,0 +1,112 @@
+1 	Earthbreakwood 	Loss 	105.37 - 169.84 	
+2 	The Indubitablys 	Loss 	116.56 - 160.59 	
+3 	Priests with guns 	Loss 	122.02 - 128.37 	
+4 	edvard eide's Team 	Win 	126.98 - 119.98 	
+5 	Franks 	Win 	143.61 - 89.97 	
+6 	Nuns with guns 	Loss 	81.12 - 112.51 	
+7 	Polk High Panthers 	Win 	110.55 - 85.24 	
+8 	Earthbreakwood 	Loss 	135.99 - 176.01 	
+9 	The Indubitablys 	Loss 	119.15 - 137.64 	
+10 	Priests with guns 	Loss 	86.27 - 168.76 	
+11 	edvard eide's Team 	Win 	111.59 - 80.17 	
+12 	Franks 	Loss 	125.27 - 136.54 	
+13 	Nuns with guns 	Loss 	133.32 - 147.81 	
+14 	Polk High Panthers 	Win 	160.89 - 77.39
+1 	Binaries 	Win 	169.84 - 105.37 	
+2 	Polk High Panthers 	Win 	170.35 - 152.85 	
+3 	The Indubitablys 	Win 	166.50 - 121.94 	
+4 	Priests with guns 	Win 	169.39 - 122.72 	
+5 	edvard eide's Team 	Win 	109.47 - 91.66 	
+6 	Franks 	Win 	143.82 - 141.31 	
+7 	Nuns with guns 	Win 	162.29 - 117.05 	
+8 	Binaries 	Win 	176.01 - 135.99 	
+9 	Polk High Panthers 	Loss 	100.56 - 105.79 	
+10 	The Indubitablys 	Win 	138.65 - 125.86 	
+11 	Priests with guns 	Loss 	152.53 - 161.39 	
+12 	edvard eide's Team 	Win 	108.14 - 79.06 	
+13 	Franks 	Win 	177.95 - 123.37 	
+14 	Nuns with guns 	Loss 	117.34 - 125.63
+1 	Nuns with guns 	Loss 	125.65 - 144.58 	
+2 	Binaries 	Win 	160.59 - 116.56 	
+3 	Earthbreakwood 	Loss 	121.94 - 166.50 	
+4 	Polk High Panthers 	Win 	157.21 - 144.01 	
+5 	Priests with guns 	Loss 	138.73 - 152.40 	
+6 	edvard eide's Team 	Win 	141.00 - 92.78 	
+7 	Franks 	Loss 	94.47 - 125.25 	
+8 	Nuns with guns 	Win 	145.02 - 97.93 	
+9 	Binaries 	Win 	137.64 - 119.15 	
+10 	Earthbreakwood 	Loss 	125.86 - 138.65 	
+11 	Polk High Panthers 	Win 	148.36 - 123.96 	
+12 	Priests with guns 	Loss 	126.42 - 148.17 	
+13 	edvard eide's Team 	Win 	151.24 - 145.02 	
+14 	Franks 	Win 	144.88 - 121.49
+1 	Franks 	Win 	158.82 - 125.03 	
+2 	Nuns with guns 	Win 	161.73 - 140.10 	
+3 	Binaries 	Win 	128.37 - 122.02 	
+4 	Earthbreakwood 	Loss 	122.72 - 169.39 	
+5 	The Indubitablys 	Win 	152.40 - 138.73 	
+6 	Polk High Panthers 	Win 	192.07 - 106.83 	
+7 	edvard eide's Team 	Win 	127.80 - 108.08 	
+8 	Franks 	Loss 	160.31 - 195.97 	
+9 	Nuns with guns 	Win 	126.30 - 124.60 	
+10 	Binaries 	Win 	168.76 - 86.27 	
+11 	Earthbreakwood 	Win 	161.39 - 152.53 	
+12 	The Indubitablys 	Win 	148.17 - 126.42 	
+13 	Polk High Panthers 	Win 	155.07 - 115.09 	
+14 	edvard eide's Team 	Win 	159.45 - 114.67
+1 	Polk High Panthers 	Win 	131.75 - 124.09 	
+2 	Franks 	Win 	106.03 - 86.62 	
+3 	Nuns with guns 	Loss 	92.53 - 118.76 	
+4 	Binaries 	Loss 	119.98 - 126.98 	
+5 	Earthbreakwood 	Loss 	91.66 - 109.47 	
+6 	The Indubitablys 	Loss 	92.78 - 141.00 	
+7 	Priests with guns 	Loss 	108.08 - 127.80 	
+8 	Polk High Panthers 	Win 	120.41 - 95.52 	
+9 	Franks 	Loss 	122.22 - 131.61 	
+10 	Nuns with guns 	Loss 	89.16 - 122.66 	
+11 	Binaries 	Loss 	80.17 - 111.59 	
+12 	Earthbreakwood 	Loss 	79.06 - 108.14 	
+13 	The Indubitablys 	Loss 	145.02 - 151.24 	
+14 	Priests with guns 	Loss 	114.67 - 159.45
+1 	Priests with guns 	Loss 	125.03 - 158.82 	
+2 	edvard eide's Team 	Loss 	86.62 - 106.03 	
+3 	Polk High Panthers 	Win 	147.34 - 108.51 	
+4 	Nuns with guns 	Loss 	151.75 - 155.68 	
+5 	Binaries 	Loss 	89.97 - 143.61 	
+6 	Earthbreakwood 	Loss 	141.31 - 143.82 	
+7 	The Indubitablys 	Win 	125.25 - 94.47 	
+8 	Priests with guns 	Win 	195.97 - 160.31 	
+9 	edvard eide's Team 	Win 	131.61 - 122.22 	
+10 	Polk High Panthers 	Win 	144.74 - 74.22 	
+11 	Nuns with guns 	Loss 	106.63 - 165.33 	
+12 	Binaries 	Win 	136.54 - 125.27 	
+13 	Earthbreakwood 	Loss 	123.37 - 177.95 	
+14 	The Indubitablys 	Loss 	121.49 - 144.88
+1 	The Indubitablys 	Win 	144.58 - 125.65 	
+2 	Priests with guns 	Loss 	140.10 - 161.73 	
+3 	edvard eide's Team 	Win 	118.76 - 92.53 	
+4 	Franks 	Win 	155.68 - 151.75 	
+5 	Polk High Panthers 	Win 	148.83 - 87.20 	
+6 	Binaries 	Win 	112.51 - 81.12 	
+7 	Earthbreakwood 	Loss 	117.05 - 162.29 	
+8 	The Indubitablys 	Loss 	97.93 - 145.02 	
+9 	Priests with guns 	Loss 	124.60 - 126.30 	
+10 	edvard eide's Team 	Win 	122.66 - 89.16 	
+11 	Franks 	Win 	165.33 - 106.63 	
+12 	Polk High Panthers 	Win 	144.15 - 83.37 	
+13 	Binaries 	Win 	147.81 - 133.32 	
+14 	Earthbreakwood 	Win 	125.63 - 117.34
+1 	edvard eide's Team 	Loss 	124.09 - 131.75 	
+2 	Earthbreakwood 	Loss 	152.85 - 170.35 	
+3 	Franks 	Loss 	108.51 - 147.34 	
+4 	The Indubitablys 	Loss 	144.01 - 157.21 	
+5 	Nuns with guns 	Loss 	87.20 - 148.83 	
+6 	Priests with guns 	Loss 	106.83 - 192.07 	
+7 	Binaries 	Loss 	85.24 - 110.55 	
+8 	edvard eide's Team 	Loss 	95.52 - 120.41 	
+9 	Earthbreakwood 	Win 	105.79 - 100.56 	
+10 	Franks 	Loss 	74.22 - 144.74 	
+11 	The Indubitablys 	Loss 	123.96 - 148.36 	
+12 	Nuns with guns 	Loss 	83.37 - 144.15 	
+13 	Priests with guns 	Loss 	115.09 - 155.07 	
+14 	Binaries 	Loss 	77.39 - 160.89

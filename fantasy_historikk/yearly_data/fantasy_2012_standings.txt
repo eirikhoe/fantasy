@@ -1,0 +1,9 @@
+Rank 	Team 	W-L-T 	Pct 	Pts For 	Pts Against 	Streak 	Waiver 	Moves
+*1. 	Franks 	9-5-0 	.643 	2063.93 	1990.43 	W-1 	6 	21
+*2. 	The Indubitablys 	7-7-0 	.500 	1997.44 	1948.34 	L-1 	4 	41
+*3. 	Team Pink 	7-7-0 	.500 	2074.23 	1882.56 	L-3 	5 	11
+*4. 	Binaries 	11-3-0 	.786 	2085.95 	1809.64 	W-5 	7 	15
+5. 	Earthbreakwood 	7-7-0 	.500 	1897.68 	1945.50 	W-3 	3 	38
+6. 	The Chillybows 	6-8-0 	.429 	1652.43 	1924.48 	L-2 	2 	6
+7. 	Priests with guns 	6-8-0 	.429 	1887.82 	1929.90 	W-2 	8 	37
+8. 	Nuns with guns 	3-11-0 	.214 	1813.49 	2042.12 	L-8 	1 	8

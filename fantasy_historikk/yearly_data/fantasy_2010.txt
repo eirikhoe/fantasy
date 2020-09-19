@@ -1,0 +1,84 @@
+1 	The Indubitablys 	Win 	155.90 - 97.60 	
+2 	Nuns with guns 	Loss 	140.70 - 165.40 	
+3 	Team Pink 	Loss 	128.90 - 139.00 	
+4 	REKA FK 	Win 	121.00 - 101.00 	
+5 	The Indubitablys 	Win 	117.10 - 115.60 	
+6 	Nuns with guns 	Loss 	106.80 - 113.10 	
+7 	Binaries 	Win 	142.10 - 115.50 	
+8 	REKA FK 	Win 	135.70 - 131.10 	
+9 	Team Pink 	Win 	179.70 - 111.10 	
+10 	Nuns with guns 	Loss 	142.80 - 162.10 	
+11 	REKA FK 	Loss 	127.10 - 155.40 	
+12 	Binaries 	Loss 	78.20 - 157.70 	
+13 	REKA FK 	Loss 	93.20 - 115.70 	
+14 	Nuns with guns 	Loss 	149.20 - 156.90
+1 	Franks 	Loss 	97.60 - 155.90 	
+2 	Binaries 	Win 	146.80 - 124.90 	
+3 	Nuns with guns 	Win 	121.10 - 87.90 	
+4 	Team Pink 	Loss 	101.30 - 174.50 	
+5 	Franks 	Loss 	115.60 - 117.10 	
+6 	Binaries 	Win 	124.00 - 97.70 	
+7 	REKA FK 	Win 	157.00 - 127.00 	
+8 	Team Pink 	Loss 	102.50 - 130.40 	
+9 	Binaries 	Win 	148.90 - 133.70 	
+10 	Team Pink 	Win 	120.00 - 110.50 	
+11 	Nuns with guns 	Win 	153.00 - 124.10 	
+12 	Team Pink 	Loss 	105.50 - 131.80 	
+13 	Binaries 	Loss 	134.30 - 140.40 	
+14 	REKA FK 	Loss 	92.40 - 97.60
+1 	Team Pink 	Win 	140.20 - 126.50 	
+2 	The Indubitablys 	Loss 	124.90 - 146.80 	
+3 	REKA FK 	Win 	154.00 - 113.50 	
+4 	Nuns with guns 	Loss 	120.60 - 133.30 	
+5 	Team Pink 	Win 	104.80 - 98.70 	
+6 	The Indubitablys 	Loss 	97.70 - 124.00 	
+7 	Franks 	Loss 	115.50 - 142.10 	
+8 	Nuns with guns 	Loss 	110.90 - 124.70 	
+9 	The Indubitablys 	Loss 	133.70 - 148.90 	
+10 	REKA FK 	Win 	102.50 - 99.60 	
+11 	Team Pink 	Loss 	138.80 - 155.90 	
+12 	Franks 	Win 	157.70 - 78.20 	
+13 	The Indubitablys 	Win 	140.40 - 134.30 	
+14 	Team Pink 	Loss 	108.70 - 113.10
+1 	REKA FK 	Loss 	80.20 - 86.00 	
+2 	Franks 	Win 	165.40 - 140.70 	
+3 	The Indubitablys 	Loss 	87.90 - 121.10 	
+4 	Binaries 	Win 	133.30 - 120.60 	
+5 	REKA FK 	Win 	139.40 - 83.20 	
+6 	Franks 	Win 	113.10 - 106.80 	
+7 	Team Pink 	Win 	132.70 - 129.60 	
+8 	Binaries 	Win 	124.70 - 110.90 	
+9 	REKA FK 	Win 	106.70 - 53.50 	
+10 	Franks 	Win 	162.10 - 142.80 	
+11 	The Indubitablys 	Loss 	124.10 - 153.00 	
+12 	REKA FK 	Loss 	109.20 - 121.90 	
+13 	Team Pink 	Win 	163.80 - 111.60 	
+14 	Franks 	Win 	156.90 - 149.20
+1 	Binaries 	Loss 	126.50 - 140.20 	
+2 	REKA FK 	Win 	112.10 - 69.50 	
+3 	Franks 	Win 	139.00 - 128.90 	
+4 	The Indubitablys 	Win 	174.50 - 101.30 	
+5 	Binaries 	Loss 	98.70 - 104.80 	
+6 	REKA FK 	Loss 	103.30 - 140.10 	
+7 	Nuns with guns 	Loss 	129.60 - 132.70 	
+8 	The Indubitablys 	Win 	130.40 - 102.50 	
+9 	Franks 	Loss 	111.10 - 179.70 	
+10 	The Indubitablys 	Loss 	110.50 - 120.00 	
+11 	Binaries 	Win 	155.90 - 138.80 	
+12 	The Indubitablys 	Win 	131.80 - 105.50 	
+13 	Nuns with guns 	Loss 	111.60 - 163.80 	
+14 	Binaries 	Win 	113.10 - 108.70
+1 	Nuns with guns 	Win 	86.00 - 80.20 	
+2 	Team Pink 	Loss 	69.50 - 112.10 	
+3 	Binaries 	Loss 	113.50 - 154.00 	
+4 	Franks 	Loss 	101.00 - 121.00 	
+5 	Nuns with guns 	Loss 	83.20 - 139.40 	
+6 	Team Pink 	Win 	140.10 - 103.30 	
+7 	The Indubitablys 	Loss 	127.00 - 157.00 	
+8 	Franks 	Loss 	131.10 - 135.70 	
+9 	Nuns with guns 	Loss 	53.50 - 106.70 	
+10 	Binaries 	Loss 	99.60 - 102.50 	
+11 	Franks 	Win 	155.40 - 127.10 	
+12 	Nuns with guns 	Win 	121.90 - 109.20 	
+13 	Franks 	Win 	115.70 - 93.20 	
+14 	The Indubitablys 	Win 	97.60 - 92.40

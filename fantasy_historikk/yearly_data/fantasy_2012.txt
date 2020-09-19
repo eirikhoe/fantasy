@@ -1,0 +1,112 @@
+1 	Franks 	Win 	159.88 - 134.62 	
+2 	Team Pink 	Win 	159.75 - 142.94 	
+3 	Earthbreakwood 	Win 	161.04 - 136.59 	
+4 	The Indubitablys 	Win 	155.00 - 116.82 	
+5 	Priests with guns 	Win 	148.28 - 122.04 	
+6 	Nuns with guns 	Loss 	158.05 - 165.80 	
+7 	The Chillybows 	Win 	109.09 - 59.52 	
+8 	Franks 	Loss 	162.61 - 170.63 	
+9 	Team Pink 	Loss 	106.29 - 184.47 	
+10 	Earthbreakwood 	Win 	142.56 - 102.05 	
+11 	The Indubitablys 	Win 	145.31 - 131.34 	
+12 	Priests with guns 	Win 	173.82 - 142.33 	
+13 	Nuns with guns 	Win 	148.66 - 114.16 	
+14 	The Chillybows 	Win 	155.61 - 86.33
+1 	Binaries 	Loss 	134.62 - 159.88 	
+2 	The Chillybows 	Loss 	117.83 - 138.62 	
+3 	Team Pink 	Win 	122.76 - 119.78 	
+4 	Earthbreakwood 	Win 	169.88 - 138.94 	
+5 	The Indubitablys 	Loss 	111.40 - 174.25 	
+6 	Priests with guns 	Win 	137.86 - 119.58 	
+7 	Nuns with guns 	Win 	160.00 - 140.81 	
+8 	Binaries 	Win 	170.63 - 162.61 	
+9 	The Chillybows 	Win 	204.99 - 119.34 	
+10 	Team Pink 	Loss 	130.80 - 140.41 	
+11 	Earthbreakwood 	Win 	144.61 - 121.09 	
+12 	The Indubitablys 	Win 	172.79 - 147.64 	
+13 	Priests with guns 	Loss 	140.11 - 170.11 	
+14 	Nuns with guns 	Win 	145.65 - 137.37
+1 	Nuns with guns 	Win 	148.98 - 116.85 	
+2 	Binaries 	Loss 	142.94 - 159.75 	
+3 	Franks 	Loss 	119.78 - 122.76 	
+4 	The Chillybows 	Win 	170.30 - 135.37 	
+5 	Earthbreakwood 	Win 	170.86 - 129.60 	
+6 	The Indubitablys 	Loss 	124.99 - 138.15 	
+7 	Priests with guns 	Loss 	153.00 - 160.28 	
+8 	Nuns with guns 	Win 	167.82 - 120.60 	
+9 	Binaries 	Win 	184.47 - 106.29 	
+10 	Franks 	Win 	140.41 - 130.80 	
+11 	The Chillybows 	Win 	158.96 - 117.18 	
+12 	Earthbreakwood 	Loss 	143.54 - 164.71 	
+13 	The Indubitablys 	Loss 	126.08 - 153.60 	
+14 	Priests with guns 	Loss 	122.10 - 126.62
+1 	Priests with guns 	Loss 	96.25 - 128.21 	
+2 	Nuns with guns 	Win 	129.53 - 126.83 	
+3 	Binaries 	Loss 	136.59 - 161.04 	
+4 	Franks 	Loss 	138.94 - 169.88 	
+5 	Team Pink 	Loss 	129.60 - 170.86 	
+6 	The Chillybows 	Loss 	109.86 - 110.70 	
+7 	The Indubitablys 	Win 	162.82 - 136.35 	
+8 	Priests with guns 	Win 	129.25 - 126.93 	
+9 	Nuns with guns 	Win 	151.36 - 121.58 	
+10 	Binaries 	Loss 	102.05 - 142.56 	
+11 	Franks 	Loss 	121.09 - 144.61 	
+12 	Team Pink 	Win 	164.71 - 143.54 	
+13 	The Chillybows 	Win 	151.93 - 135.10 	
+14 	The Indubitablys 	Win 	173.70 - 127.31
+1 	The Chillybows 	Win 	178.40 - 110.38 	
+2 	Priests with guns 	Loss 	120.17 - 157.91 	
+3 	Nuns with guns 	Win 	155.40 - 122.59 	
+4 	Binaries 	Loss 	116.82 - 155.00 	
+5 	Franks 	Win 	174.25 - 111.40 	
+6 	Team Pink 	Win 	138.15 - 124.99 	
+7 	Earthbreakwood 	Loss 	136.35 - 162.82 	
+8 	The Chillybows 	Loss 	127.12 - 131.52 	
+9 	Priests with guns 	Win 	162.74 - 136.28 	
+10 	Nuns with guns 	Win 	128.15 - 117.57 	
+11 	Binaries 	Loss 	131.34 - 145.31 	
+12 	Franks 	Loss 	147.64 - 172.79 	
+13 	Team Pink 	Win 	153.60 - 126.08 	
+14 	Earthbreakwood 	Loss 	127.31 - 173.70
+1 	Earthbreakwood 	Win 	128.21 - 96.25 	
+2 	The Indubitablys 	Win 	157.91 - 120.17 	
+3 	The Chillybows 	Loss 	105.51 - 130.46 	
+4 	Nuns with guns 	Loss 	162.46 - 194.63 	
+5 	Binaries 	Loss 	122.04 - 148.28 	
+6 	Franks 	Loss 	119.58 - 137.86 	
+7 	Team Pink 	Win 	160.28 - 153.00 	
+8 	Earthbreakwood 	Loss 	126.93 - 129.25 	
+9 	The Indubitablys 	Loss 	136.28 - 162.74 	
+10 	The Chillybows 	Loss 	110.44 - 110.97 	
+11 	Nuns with guns 	Win 	119.12 - 110.26 	
+12 	Binaries 	Loss 	142.33 - 173.82 	
+13 	Franks 	Win 	170.11 - 140.11 	
+14 	Team Pink 	Win 	126.62 - 122.10
+1 	Team Pink 	Loss 	116.85 - 148.98 	
+2 	Earthbreakwood 	Loss 	126.83 - 129.53 	
+3 	The Indubitablys 	Loss 	122.59 - 155.40 	
+4 	Priests with guns 	Win 	194.63 - 162.46 	
+5 	The Chillybows 	Win 	124.44 - 117.34 	
+6 	Binaries 	Win 	165.80 - 158.05 	
+7 	Franks 	Loss 	140.81 - 160.00 	
+8 	Team Pink 	Loss 	120.60 - 167.82 	
+9 	Earthbreakwood 	Loss 	121.58 - 151.36 	
+10 	The Indubitablys 	Loss 	117.57 - 128.15 	
+11 	Priests with guns 	Loss 	110.26 - 119.12 	
+12 	The Chillybows 	Loss 	100.00 - 149.60 	
+13 	Binaries 	Loss 	114.16 - 148.66 	
+14 	Franks 	Loss 	137.37 - 145.65
+1 	The Indubitablys 	Loss 	110.38 - 178.40 	
+2 	Franks 	Win 	138.62 - 117.83 	
+3 	Priests with guns 	Win 	130.46 - 105.51 	
+4 	Team Pink 	Loss 	135.37 - 170.30 	
+5 	Nuns with guns 	Loss 	117.34 - 124.44 	
+6 	Earthbreakwood 	Win 	110.70 - 109.86 	
+7 	Binaries 	Loss 	59.52 - 109.09 	
+8 	The Indubitablys 	Win 	131.52 - 127.12 	
+9 	Franks 	Loss 	119.34 - 204.99 	
+10 	Priests with guns 	Win 	110.97 - 110.44 	
+11 	Team Pink 	Loss 	117.18 - 158.96 	
+12 	Nuns with guns 	Win 	149.60 - 100.00 	
+13 	Earthbreakwood 	Loss 	135.10 - 151.93 	
+14 	Binaries 	Loss 	86.33 - 155.61
