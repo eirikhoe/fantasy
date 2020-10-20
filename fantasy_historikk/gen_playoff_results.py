@@ -1,19 +1,24 @@
 import pandas as pd
 import numpy as np
 import re
-
-
-path  = 'C:/Users/Eirik/Documents/Python_Scripts/Fantasy/fantasy_historikk'
+from pathlib import Path
 
 text_regex = re.compile(r'((?:\S+ ?)+)')
 team_regex = re.compile(r'\((\d)\) ((?: ?\S+)+)') 
 score_regex = re.compile(r'(\d{1,3}(?:\.\d{2}){0,1})')
 playoffs = []
-for year in range(2008,2019):
+script_dir = Path(__file__).parent
 
-    with open(f'{path}/fantasy_{year}_playoffs.txt') as f:
+INITIAL_YEAR = 2008
+year = INITIAL_YEAR
+while True:
+    try:
+        with open(script_dir / "yearly_data" / f"fantasy_{year}_playoffs.txt") as f:
             lines = f.readlines()
-
+    except FileNotFoundError:
+        print(f"Final year with data is {year-1}")
+        break
+    
     linetypes = {0:text_regex,1:team_regex,2:score_regex,3:team_regex,4:score_regex}
     count = 0
     res = []
@@ -42,6 +47,7 @@ for year in range(2008,2019):
     playoff = pd.DataFrame(games,columns = ['Game Type','First Team Rank', 'First Team Name', 'First Team Pts', 'Second Team Rank', 'Second Team Name', 'Second Team Pts'])
     playoff['Year'] = year
     playoffs.append(playoff)
+    year += 1
 
 playoffs = pd.concat(playoffs,axis=0,sort=False,ignore_index=True)
 

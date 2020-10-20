@@ -1,0 +1,140 @@
+1 	Binaries 	Win 	174.12 - 150.28 	Recap
+2 	Earthbreakwood 	  	4.60 - 0.00 	
+3 	Franks 	  	  	
+4 	Handegg United 	  	  	
+5 	Marienlyst Sharks 	  	  	
+6 	Priests with guns 	  	  	
+7 	The Adult Beverages 	  	  	
+8 	The Chillybows 	  	  	
+9 	Charles's Crazy Team 	  	  	
+10 	Binaries 	  	  	
+11 	Earthbreakwood 	  	  	
+12 	Franks 	  	  	
+13 	Handegg United 	  	  	
+14 	Marienlyst Sharks 	  	 
+1 	The Indubitablys 	Loss 	150.28 - 174.12 	Recap
+2 	Charles's Crazy Team 	  	23.20 - 0.00 	
+3 	Earthbreakwood 	  	  	
+4 	Franks 	  	  	
+5 	Handegg United 	  	  	
+6 	Marienlyst Sharks 	  	  	
+7 	Priests with guns 	  	  	
+8 	The Adult Beverages 	  	  	
+9 	The Chillybows 	  	  	
+10 	The Indubitablys 	  	  	
+11 	Charles's Crazy Team 	  	  	
+12 	Earthbreakwood 	  	  	
+13 	Franks 	  	  	
+14 	Handegg United 	  	
+1 	The Chillybows 	Loss 	136.54 - 141.33 	Recap
+2 	The Indubitablys 	  	0.00 - 4.60 	
+3 	Binaries 	  	  	
+4 	Charles's Crazy Team 	  	  	
+5 	Franks 	  	  	
+6 	Handegg United 	  	  	
+7 	Marienlyst Sharks 	  	  	
+8 	Priests with guns 	  	  	
+9 	The Adult Beverages 	  	  	
+10 	The Chillybows 	  	  	
+11 	The Indubitablys 	  	  	
+12 	Binaries 	  	  	
+13 	Charles's Crazy Team 	  	  	
+14 	Franks 	  	
+1 	The Adult Beverages 	Loss 	129.49 - 144.84 	Recap
+2 	The Chillybows 	  	13.40 - 0.00 	
+3 	The Indubitablys 	  	  	
+4 	Binaries 	  	  	
+5 	Earthbreakwood 	  	  	
+6 	Charles's Crazy Team 	  	  	
+7 	Handegg United 	  	  	
+8 	Marienlyst Sharks 	  	  	
+9 	Priests with guns 	  	  	
+10 	The Adult Beverages 	  	  	
+11 	The Chillybows 	  	  	
+12 	The Indubitablys 	  	  	
+13 	Binaries 	  	  	
+14 	Earthbreakwood 	  	
+1 	Priests with guns 	Loss 	120.82 - 166.50 	Recap
+2 	The Adult Beverages 	  	0.00 - 22.10 	
+3 	The Chillybows 	  	  	
+4 	The Indubitablys 	  	  	
+5 	Binaries 	  	  	
+6 	Earthbreakwood 	  	  	
+7 	Franks 	  	  	
+8 	Charles's Crazy Team 	  	  	
+9 	Marienlyst Sharks 	  	  	
+10 	Priests with guns 	  	  	
+11 	The Adult Beverages 	  	  	
+12 	The Chillybows 	  	  	
+13 	The Indubitablys 	  	  	
+14 	Binaries 	  	
+1 	Charles's Crazy Team 	Loss 	96.15 - 161.85 	Recap
+2 	Priests with guns 	  	36.80 - 0.00 	
+3 	The Adult Beverages 	  	  	
+4 	The Chillybows 	  	  	
+5 	The Indubitablys 	  	  	
+6 	Binaries 	  	  	
+7 	Earthbreakwood 	  	  	
+8 	Franks 	  	  	
+9 	Handegg United 	  	  	
+10 	Charles's Crazy Team 	  	  	
+11 	Priests with guns 	  	  	
+12 	The Adult Beverages 	  	  	
+13 	The Chillybows 	  	  	
+14 	The Indubitablys 	  	
+1 	Handegg United 	Win 	166.50 - 120.82 	Recap
+2 	Marienlyst Sharks 	  	0.00 - 36.80 	
+3 	Charles's Crazy Team 	  	  	
+4 	The Adult Beverages 	  	  	
+5 	The Chillybows 	  	  	
+6 	The Indubitablys 	  	  	
+7 	Binaries 	  	  	
+8 	Earthbreakwood 	  	  	
+9 	Franks 	  	  	
+10 	Handegg United 	  	  	
+11 	Marienlyst Sharks 	  	  	
+12 	Charles's Crazy Team 	  	  	
+13 	The Adult Beverages 	  	  	
+14 	The Chillybows 	  	 
+1 	Franks 	Win 	144.84 - 129.49 	Recap
+2 	Handegg United 	  	22.10 - 0.00 	
+3 	Marienlyst Sharks 	  	  	
+4 	Priests with guns 	  	  	
+5 	Charles's Crazy Team 	  	  	
+6 	The Chillybows 	  	  	
+7 	The Indubitablys 	  	  	
+8 	Binaries 	  	  	
+9 	Earthbreakwood 	  	  	
+10 	Franks 	  	  	
+11 	Handegg United 	  	  	
+12 	Marienlyst Sharks 	  	  	
+13 	Priests with guns 	  	  	
+14 	Charles's Crazy Team 	  	 
+1 	Earthbreakwood 	Win 	141.33 - 136.54 	Recap
+2 	Franks 	  	0.00 - 13.40 	
+3 	Handegg United 	  	  	
+4 	Marienlyst Sharks 	  	  	
+5 	Priests with guns 	  	  	
+6 	The Adult Beverages 	  	  	
+7 	Charles's Crazy Team 	  	  	
+8 	The Indubitablys 	  	  	
+9 	Binaries 	  	  	
+10 	Earthbreakwood 	  	  	
+11 	Franks 	  	  	
+12 	Handegg United 	  	  	
+13 	Marienlyst Sharks 	  	  	
+14 	Priests with guns 	  	 
+1 	Marienlyst Sharks 	Win 	161.85 - 96.15 	Recap
+2 	Binaries 	  	0.00 - 23.20 	
+3 	Priests with guns 	  	  	
+4 	Earthbreakwood 	  	  	
+5 	The Adult Beverages 	  	  	
+6 	Franks 	  	  	
+7 	The Chillybows 	  	  	
+8 	Handegg United 	  	  	
+9 	The Indubitablys 	  	  	
+10 	Marienlyst Sharks 	  	  	
+11 	Binaries 	  	  	
+12 	Priests with guns 	  	  	
+13 	Earthbreakwood 	  	  	
+14 	The Adult Beverages 	  	 

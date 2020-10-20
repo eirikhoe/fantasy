@@ -1,0 +1,140 @@
+1 	Binaries 	Win 	153.88 - 129.85
+2 	Earthbreakwood 	Win 	138.77 - 100.17
+3 	Franks 	Win 	151.57 - 136.63
+4 	Handegg United 	Loss 	103.73 - 123.50
+5 	Marienlyst Sharks 	Win 	173.43 - 172.56
+6 	Charles's Crazy Team 	Loss 	135.19 - 149.26
+7 	Priests with guns 	Loss 	112.80 - 117.31
+8 	The Adult Beverages 	Win 	132.95 - 123.11
+9 	The Chillybows 	Win 	147.75 - 95.93
+10 	Binaries 	Win 	132.86 - 122.51
+11 	Earthbreakwood 	Loss 	151.00 - 153.51
+12 	Franks 	Win 	158.18 - 121.92
+13 	Handegg United 	Win 	115.10 - 113.55
+14 	Marienlyst Sharks 	Win 	162.29 - 106.25
+1 	The Indubitablys 	Loss 	129.85 - 153.88
+2 	The Chillybows 	Win 	152.59 - 148.62
+3 	Earthbreakwood 	Win 	174.16 - 134.13
+4 	Franks 	Win 	164.95 - 111.75
+5 	Handegg United 	Loss 	137.01 - 141.48
+6 	Marienlyst Sharks 	Loss 	142.20 - 185.62
+7 	Charles's Crazy Team 	Win 	150.75 - 123.46
+8 	Priests with guns 	Win 	170.20 - 128.67
+9 	The Adult Beverages 	Loss 	92.09 - 171.46
+10 	The Indubitablys 	Loss 	122.51 - 132.86
+11 	The Chillybows 	Win 	140.11 - 88.46
+12 	Earthbreakwood 	Win 	138.28 - 112.08
+13 	Franks 	Loss 	142.13 - 161.61
+14 	Handegg United 	Loss 	110.57 - 138.71
+1 	The Adult Beverages 	Loss 	151.96 - 162.78
+2 	The Indubitablys 	Loss 	100.17 - 138.77
+3 	Binaries 	Loss 	134.13 - 174.16
+4 	The Chillybows 	Loss 	110.26 - 120.12
+5 	Franks 	Loss 	117.87 - 157.08
+6 	Handegg United 	Loss 	80.30 - 135.78
+7 	Marienlyst Sharks 	Win 	137.48 - 119.85
+8 	Charles's Crazy Team 	Loss 	177.63 - 201.47
+9 	Priests with guns 	Loss 	106.11 - 140.82
+10 	The Adult Beverages 	Win 	155.39 - 143.70
+11 	The Indubitablys 	Win 	153.51 - 151.00
+12 	Binaries 	Loss 	112.08 - 138.28
+13 	The Chillybows 	Win 	162.12 - 107.53
+14 	Franks 	Loss 	140.32 - 171.53
+1 	Priests with guns 	Loss 	123.67 - 163.32
+2 	The Adult Beverages 	Win 	134.17 - 116.20
+3 	The Indubitablys 	Loss 	136.63 - 151.57
+4 	Binaries 	Loss 	111.75 - 164.95
+5 	Earthbreakwood 	Win 	157.08 - 117.87
+6 	The Chillybows 	Loss 	118.84 - 167.21
+7 	Handegg United 	Loss 	119.38 - 156.82
+8 	Marienlyst Sharks 	Loss 	151.20 - 162.42
+9 	Charles's Crazy Team 	Win 	151.27 - 144.21
+10 	Priests with guns 	Loss 	193.14 - 201.48
+11 	The Adult Beverages 	Win 	108.70 - 104.22
+12 	The Indubitablys 	Loss 	121.92 - 158.18
+13 	Binaries 	Win 	161.61 - 142.13
+14 	Earthbreakwood 	Win 	171.53 - 140.32
+1 	Charles's Crazy Team 	Win 	136.25 - 135.70
+2 	Priests with guns 	Loss 	148.68 - 149.15
+3 	The Adult Beverages 	Win 	155.06 - 144.69
+4 	The Indubitablys 	Win 	123.50 - 103.73
+5 	Binaries 	Win 	141.48 - 137.01
+6 	Earthbreakwood 	Win 	135.78 - 80.30
+7 	Franks 	Win 	156.82 - 119.38
+8 	The Chillybows 	Loss 	161.78 - 162.60
+9 	Marienlyst Sharks 	Win 	144.27 - 141.83
+10 	Charles's Crazy Team 	Loss 	104.20 - 156.08
+11 	Priests with guns 	Win 	155.16 - 138.18
+12 	The Adult Beverages 	Loss 	122.70 - 160.91
+13 	The Indubitablys 	Loss 	113.55 - 115.10
+14 	Binaries 	Win 	138.71 - 110.57
+1 	The Chillybows 	Win 	131.51 - 105.40
+2 	Charles's Crazy Team 	Win 	144.46 - 110.83
+3 	Priests with guns 	Loss 	141.24 - 151.07
+4 	The Adult Beverages 	Loss 	72.47 - 142.38
+5 	The Indubitablys 	Loss 	172.56 - 173.43
+6 	Binaries 	Win 	185.62 - 142.20
+7 	Earthbreakwood 	Loss 	119.85 - 137.48
+8 	Franks 	Win 	162.42 - 151.20
+9 	Handegg United 	Loss 	141.83 - 144.27
+10 	The Chillybows 	Loss 	114.00 - 122.89
+11 	Charles's Crazy Team 	Loss 	140.89 - 173.46
+12 	Priests with guns 	Loss 	88.38 - 148.73
+13 	The Adult Beverages 	Loss 	101.32 - 120.07
+14 	The Indubitablys 	Loss 	106.25 - 162.29
+1 	Handegg United 	Loss 	135.70 - 136.25
+2 	Marienlyst Sharks 	Loss 	110.83 - 144.46
+3 	The Chillybows 	Win 	177.73 - 152.60
+4 	Priests with guns 	Loss 	130.33 - 135.42
+5 	The Adult Beverages 	Loss 	137.38 - 196.64
+6 	The Indubitablys 	Win 	149.26 - 135.19
+7 	Binaries 	Loss 	123.46 - 150.75
+8 	Earthbreakwood 	Win 	201.47 - 177.63
+9 	Franks 	Loss 	144.21 - 151.27
+10 	Handegg United 	Win 	156.08 - 104.20
+11 	Marienlyst Sharks 	Win 	173.46 - 140.89
+12 	The Chillybows 	Loss 	130.59 - 156.70
+13 	Priests with guns 	Loss 	117.10 - 131.06
+14 	The Adult Beverages 	Loss 	127.98 - 134.84
+1 	Franks 	Win 	163.32 - 123.67
+2 	Handegg United 	Win 	149.15 - 148.68
+3 	Marienlyst Sharks 	Win 	151.07 - 141.24
+4 	Charles's Crazy Team 	Win 	135.42 - 130.33
+5 	The Chillybows 	Loss 	131.39 - 171.99
+6 	The Adult Beverages 	Win 	141.22 - 123.71
+7 	The Indubitablys 	Win 	117.31 - 112.80
+8 	Binaries 	Loss 	128.67 - 170.20
+9 	Earthbreakwood 	Win 	140.82 - 106.11
+10 	Franks 	Win 	201.48 - 193.14
+11 	Handegg United 	Loss 	138.18 - 155.16
+12 	Marienlyst Sharks 	Win 	148.73 - 88.38
+13 	Charles's Crazy Team 	Win 	131.06 - 117.10
+14 	The Chillybows 	Win 	154.31 - 91.50
+1 	Earthbreakwood 	Win 	162.78 - 151.96
+2 	Franks 	Loss 	116.20 - 134.17
+3 	Handegg United 	Loss 	144.69 - 155.06
+4 	Marienlyst Sharks 	Win 	142.38 - 72.47
+5 	Charles's Crazy Team 	Win 	196.64 - 137.38
+6 	Priests with guns 	Loss 	123.71 - 141.22
+7 	The Chillybows 	Win 	147.87 - 145.63
+8 	The Indubitablys 	Loss 	123.11 - 132.95
+9 	Binaries 	Win 	171.46 - 92.09
+10 	Earthbreakwood 	Loss 	143.70 - 155.39
+11 	Franks 	Loss 	104.22 - 108.70
+12 	Handegg United 	Win 	160.91 - 122.70
+13 	Marienlyst Sharks 	Win 	120.07 - 101.32
+14 	Charles's Crazy Team 	Win 	134.84 - 127.98
+1 	Marienlyst Sharks 	Loss 	105.40 - 131.51
+2 	Binaries 	Loss 	148.62 - 152.59
+3 	Charles's Crazy Team 	Loss 	152.60 - 177.73
+4 	Earthbreakwood 	Win 	120.12 - 110.26
+5 	Priests with guns 	Win 	171.99 - 131.39
+6 	Franks 	Win 	167.21 - 118.84
+7 	The Adult Beverages 	Loss 	145.63 - 147.87
+8 	Handegg United 	Win 	162.60 - 161.78
+9 	The Indubitablys 	Loss 	95.93 - 147.75
+10 	Marienlyst Sharks 	Win 	122.89 - 114.00
+11 	Binaries 	Loss 	88.46 - 140.11
+12 	Charles's Crazy Team 	Win 	156.70 - 130.59
+13 	Earthbreakwood 	Loss 	107.53 - 162.12
+14 	Priests with guns 	Loss 	91.50 - 154.31

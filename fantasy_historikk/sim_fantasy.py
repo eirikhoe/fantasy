@@ -6,7 +6,7 @@ from scipy.stats import gamma
 import matplotlib.pyplot as plt
 import time
 import pickle
-
+from pathlib import Path
 
 def seconds_to_str(time):
     hours, time = divmod(time, 3600)
@@ -18,18 +18,22 @@ def seconds_to_str(time):
     )
 
 
-path = "C:/Users/Eirik/Documents/Python_Scripts/Fantasy/fantasy_historikk"
+year = 2020
 
-schedule = pd.read_csv(f"{path}/schedule_2019.csv")
+path = Path(__file__).parent
+
+schedule = pd.read_csv(path / f"schedule_{year}.csv")
 
 weeks_season = schedule["Week"].max()
 
 teams = schedule["Opponent"].unique()
 n_teams = len(teams)
+n_playoff_teams = 4
 
 schedule = schedule.pivot(index="Team", columns="Week", values="Opponent").sort_index()
 
-standings = pd.read_csv(f"{path}/fantasy_curr_standings.txt", sep="\t")
+standings = pd.read_csv(path / "fantasy_curr_standings.txt", sep="\t")
+
 cols = standings.columns.values
 stripped_cols = [col.strip() for col in cols]
 standings = standings.rename(columns=dict(zip(cols, stripped_cols)))
@@ -55,23 +59,22 @@ print(standings)
 points = standings["Pts For"].values
 wins = standings["Win"].values
 
-gamma_shape, loc, gamma_scale_prior = (28.546715229170655, 0, 4.918714525643943)
-rate_hyp_init_shape = 250
+gamma_shape, loc, gamma_scale_prior = (28.911131362547057, 0, 4.8412050199817385)
+rate_hyp_init_shape = 260
 rate_hyp_init_rate = rate_hyp_init_shape * gamma_scale_prior
 
 rate_hyp_shape = rate_hyp_init_shape + weeks_played * gamma_shape
 rate_hyp_rate = rate_hyp_init_rate + points
 
 make_playoffs = np.zeros(n_teams, dtype=np.int64)
-n_sim = int(5e6)
-
+n_sim = int(1e6)
 start_time = time.perf_counter()
 
 pts_week = np.zeros(n_teams)
 dist = np.zeros((n_teams, n_sim * (weeks_season - weeks_played)))
 n_dist = 0
-leverage_num = np.zeros((n_teams,2))
-leverage_den = np.zeros((n_teams,2))
+leverage_num = np.zeros((n_teams, 2))
+leverage_den = np.zeros((n_teams, 2))
 for n in np.arange(n_sim):
     sim_pts = points.copy()
     sim_wins = wins.copy()
@@ -90,17 +93,17 @@ for n in np.arange(n_sim):
         if week == weeks_played:
             win_initial_week = win_week
     placement = np.lexsort((sim_pts, sim_wins))[::-1]
-    make_playoffs[placement[:4]] += 1
-    leverage_den[np.arange(n_teams),win_initial_week] +=1
-    leverage_num[placement[:4],win_initial_week[placement[:4]]] +=1
+    make_playoffs[placement[:n_playoff_teams]] += 1
+    leverage_den[np.arange(n_teams), win_initial_week] += 1
+    leverage_num[placement[:n_playoff_teams], win_initial_week[placement[:n_playoff_teams]]] += 1
 
-    if (not (n % 5e4)) and (n > 0):
+    if (not (n % 1e4)) and (n > 0):
         runtime = seconds_to_str(time.perf_counter() - start_time)
         print()
         print(f"{int(n/1e3)}k rows processed. Elapsed time: {runtime}")
         eta = seconds_to_str((n_sim - n) * (time.perf_counter() - start_time) / n)
         print(f"ETA: {eta}")
-        standings["Make playoffs"] = 100 * (make_playoffs / (n+1))
+        standings["Make playoffs"] = 100 * (make_playoffs / (n + 1))
         print(f"Current probabilites:")
         print(standings.set_index("Team")["Make playoffs"])
 
@@ -108,7 +111,7 @@ standings["Make playoffs"] = 100 * (make_playoffs / n_sim)
 
 x = np.linspace(np.min(dist[0, :]), np.max(dist[0, :]), 100)
 pdf_fitted = gamma.pdf(x, gamma_shape, loc, gamma_scale_prior)
-leverage = 100*leverage_num/leverage_den
+leverage = 100 * leverage_num / leverage_den
 
 n_rows = 3
 fig, ax = plt.subplots(n_rows, int(np.ceil(n_teams / n_rows)), sharex=True, sharey=True)
@@ -127,9 +130,11 @@ change = playoff_probs - last_week
 
 print()
 print(f"Playoff odds after week {weeks_played}:")
-for i,team in enumerate(playoff_probs.index.values):
-    print(f"{team}: {playoff_probs[team]:.1f}% ({change[team]:+.1f} pp.)"
-    + f" [{leverage[i,0]:.1f}%, {leverage[i,1]:.1f}%]")
+for i, team in enumerate(playoff_probs.index.values):
+    print(
+        f"{team}: {playoff_probs[team]:.1f}% ({change[team]:+.1f} pp.)"
+        + f" [{leverage[i,0]:.1f}%, {leverage[i,1]:.1f}%]"
+    )
 
 playoff_probs.to_pickle("./last_week_prob.pkl")
 

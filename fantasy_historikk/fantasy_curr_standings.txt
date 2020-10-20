@@ -1,11 +1,11 @@
 Rank 	Team 	W-L-T 	Pts For 	Pts Agnst 	Streak 	Waiver Bdgt 	Waiver 	Moves
-1 	 Priests with guns 	10-3-0 	1877.82 	1782.51 	W-2 	$22 	10 	48
-2 	 The Indubitablys 	9-4-0 	1807.21 	1659.81 	W-2 	$30 	9 	38
-3 	 Handegg United 	8-5-0 	1799.23 	1744.66 	L-2 	$68 	8 	29
-4 	 The Adult Beverages 	7-6-0 	1857.74 	1649.04 	W-2 	$76 	7 	20
-5 	 Binaries 	7-6-0 	1856.83 	1793.58 	L-1 	$98 	6 	10
-6 	 The Chillybows 	6-7-0 	1745.68 	1826.54 	L-1 	$98 	5 	19
-7 	 Charles's Crazy Team 	5-8-0 	1887.60 	1913.06 	L-2 	$0 	4 	35
-8 	 Franks 	5-8-0 	1788.86 	1950.58 	W-1 	$0 	3 	27
-9 	 Marienlyst Sharks 	4-9-0 	1714.55 	1823.41 	L-5 	$52 	2 	48
-10 	 Earthbreakwood 	4-9-0 	1699.01 	1891.34 	W-1 	$50 	1 	25
+1 	The Indubitablys 	5-0-0 	832.68 	653.00 	W-5 	$78 	10 	12
+2 	The Adult Beverages 	3-2-0 	782.63 	710.36 	W-1 	$100 	9 	3
+3 	Charles's Crazy Team 	3-2-0 	772.95 	742.00 	L-1 	$48 	8 	14
+4 	The Chillybows 	3-2-0 	711.24 	680.92 	W-1 	$100 	7 	8
+5 	Priests with guns 	3-2-0 	696.24 	647.35 	L-1 	$75 	6 	26
+6 	Handegg United 	3-2-0 	638.97 	673.74 	W-1 	$77 	5 	21
+7 	Earthbreakwood 	2-3-0 	777.08 	768.55 	W-1 	$73 	4 	6
+8 	Binaries 	2-3-0 	747.58 	725.26 	L-1 	$94 	3 	6
+9 	Marienlyst Sharks 	1-4-0 	580.57 	793.48 	L-1 	$32 	2 	35
+10 	Franks 	0-5-0 	623.00 	768.28 	L-5 	$5 	1 	10
