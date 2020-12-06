@@ -8,6 +8,7 @@ import time
 import pickle
 from pathlib import Path
 
+
 def seconds_to_str(time):
     hours, time = divmod(time, 3600)
     minutes, time = divmod(time, 60)
@@ -29,6 +30,7 @@ weeks_season = schedule["Week"].max()
 teams = schedule["Opponent"].unique()
 n_teams = len(teams)
 n_playoff_teams = 4
+n_consolation_teams = 4
 
 schedule = schedule.pivot(index="Team", columns="Week", values="Opponent").sort_index()
 
@@ -67,6 +69,7 @@ rate_hyp_shape = rate_hyp_init_shape + weeks_played * gamma_shape
 rate_hyp_rate = rate_hyp_init_rate + points
 
 make_playoffs = np.zeros(n_teams, dtype=np.int64)
+make_consolation = np.zeros(n_teams, dtype=np.int64)
 n_sim = int(1e6)
 start_time = time.perf_counter()
 
@@ -94,8 +97,13 @@ for n in np.arange(n_sim):
             win_initial_week = win_week
     placement = np.lexsort((sim_pts, sim_wins))[::-1]
     make_playoffs[placement[:n_playoff_teams]] += 1
+    make_consolation[
+        placement[n_playoff_teams : (n_playoff_teams + n_consolation_teams)]
+    ] += 1
     leverage_den[np.arange(n_teams), win_initial_week] += 1
-    leverage_num[placement[:n_playoff_teams], win_initial_week[placement[:n_playoff_teams]]] += 1
+    leverage_num[
+        placement[:n_playoff_teams], win_initial_week[placement[:n_playoff_teams]]
+    ] += 1
 
     if (not (n % 1e4)) and (n > 0):
         runtime = seconds_to_str(time.perf_counter() - start_time)
@@ -104,10 +112,14 @@ for n in np.arange(n_sim):
         eta = seconds_to_str((n_sim - n) * (time.perf_counter() - start_time) / n)
         print(f"ETA: {eta}")
         standings["Make playoffs"] = 100 * (make_playoffs / (n + 1))
+        standings["Make consolation"] = 100 * (make_consolation / (n + 1))
         print(f"Current probabilites:")
         print(standings.set_index("Team")["Make playoffs"])
+        print()
+        print(standings.set_index("Team")["Make consolation"])
 
 standings["Make playoffs"] = 100 * (make_playoffs / n_sim)
+standings["Make consolation"] = 100 * (make_consolation / n_sim)
 
 x = np.linspace(np.min(dist[0, :]), np.max(dist[0, :]), 100)
 pdf_fitted = gamma.pdf(x, gamma_shape, loc, gamma_scale_prior)
@@ -125,6 +137,7 @@ for i in range(n_teams):
 fig.show()
 
 playoff_probs = standings.set_index("Team")["Make playoffs"]
+consolation_probs = standings.set_index("Team")["Make consolation"]
 last_week = pd.read_pickle("./last_week_prob.pkl")
 change = playoff_probs - last_week
 
@@ -136,5 +149,9 @@ for i, team in enumerate(playoff_probs.index.values):
         + f" [{leverage[i,0]:.1f}%, {leverage[i,1]:.1f}%]"
     )
 
-playoff_probs.to_pickle("./last_week_prob.pkl")
+print(f"Consolation odds after week {weeks_played}:")
+for i, team in enumerate(consolation_probs.index.values):
+    print(f"{team}: {consolation_probs[team]:.1f}%")
 
+playoff_probs.to_pickle("./last_week_prob.pkl")
+consolation_probs.to_pickle("./last_week_cons.pkl")
